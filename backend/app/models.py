@@ -11,9 +11,11 @@ State machines are REWRITTEN for M.Video semantics (do NOT copy Ozon's):
 from __future__ import annotations
 
 from datetime import datetime
+from decimal import Decimal
 
 from sqlalchemy import (
     JSON,
+    Boolean,
     DateTime,
     Float,
     ForeignKey,
@@ -55,6 +57,17 @@ class ItemStatus:
     FAILED = "failed"                 # unrecoverable
     SKIPPED = "skipped"               # deliberately skipped
     WAITING_QUOTA = "waiting_quota"   # request budget / ban pause
+
+class SingleSkuStatus:
+    """Independent single-SKU workflow statuses.
+
+    This enum must not be merged into MigrationBatch / MigrationItem.
+    """
+
+    AWAITING_INPUT = "awaiting_input"
+    PRICED = "priced"
+    DRY_RUN_READY = "dry_run_ready"
+    BLOCKED = "blocked"
 
 
 # legacy v0.2 MaterialV2 states (kept so old rows still parse; pipeline v0.3 bypasses them)
@@ -256,3 +269,84 @@ class KVCache(Base):
     updated_at: Mapped[datetime] = mapped_column(
         DateTime, default=datetime.utcnow, onupdate=datetime.utcnow
     )
+
+
+class SingleSkuJob(Base):
+    """One source product/SKU to one M.Video product/SKU.
+
+    This is intentionally separate from MigrationBatch and MigrationItem.
+    Source RUB prices are evidence only and never become CNY purchase cost.
+    """
+
+    __tablename__ = "single_sku_jobs"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    job_ref: Mapped[str] = mapped_column(String(64), unique=True, index=True)
+    source_platform: Mapped[str] = mapped_column(String(32), default="ozon")
+    source_url: Mapped[str] = mapped_column(String(1024), default="")
+    source_product_id: Mapped[str] = mapped_column(String(128), default="")
+    source_sku_id: Mapped[str] = mapped_column(String(128), default="")
+    source_title: Mapped[str] = mapped_column(Text, default="")
+    source_description: Mapped[str] = mapped_column(Text, default="")
+    source_brand: Mapped[str] = mapped_column(String(255), default="")
+    source_model: Mapped[str] = mapped_column(String(255), default="")
+    source_price_rub: Mapped[Decimal | None] = mapped_column(
+        Numeric(12, 2), nullable=True
+    )
+    source_images_json: Mapped[list] = mapped_column(JSON, default=list)
+    source_payload_json: Mapped[dict] = mapped_column(JSON, default=dict)
+
+    ozon_category_id: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    ozon_category_name: Mapped[str] = mapped_column(String(512), default="")
+    mv_group_id: Mapped[str] = mapped_column(String(64), default="")
+    mv_group_name: Mapped[str] = mapped_column(String(512), default="")
+    mv_infomodel_id: Mapped[str] = mapped_column(String(64), default="")
+    commission_category: Mapped[str] = mapped_column(String(64), default="other")
+    tn_ved: Mapped[str] = mapped_column(String(64), default="")
+    certificate_requirements_json: Mapped[list] = mapped_column(JSON, default=list)
+    compliance_documents_json: Mapped[list] = mapped_column(JSON, default=list)
+
+    purchase_cost_cny: Mapped[Decimal | None] = mapped_column(
+        Numeric(12, 4), nullable=True
+    )
+    domestic_cost_cny: Mapped[Decimal] = mapped_column(Numeric(12, 4), default=0)
+    length_mm: Mapped[Decimal | None] = mapped_column(Numeric(10, 2), nullable=True)
+    width_mm: Mapped[Decimal | None] = mapped_column(Numeric(10, 2), nullable=True)
+    height_mm: Mapped[Decimal | None] = mapped_column(Numeric(10, 2), nullable=True)
+    weight_g: Mapped[Decimal | None] = mapped_column(Numeric(10, 2), nullable=True)
+    stock: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    color: Mapped[str] = mapped_column(String(64), default="белый")
+
+    cost_confirmed: Mapped[bool] = mapped_column(Boolean, default=False)
+    dimensions_confirmed: Mapped[bool] = mapped_column(Boolean, default=False)
+    stock_confirmed: Mapped[bool] = mapped_column(Boolean, default=False)
+    category_confirmed: Mapped[bool] = mapped_column(Boolean, default=False)
+    compliance_confirmed: Mapped[bool] = mapped_column(Boolean, default=False)
+
+    target_net_margin: Mapped[Decimal] = mapped_column(
+        Numeric(6, 4), default=Decimal("0.25")
+    )
+    shipping_channel: Mapped[str] = mapped_column(String(16), default="economy")
+    price_rub: Mapped[Decimal | None] = mapped_column(Numeric(12, 2), nullable=True)
+    pricing_result_json: Mapped[dict] = mapped_column(JSON, default=dict)
+
+    brand: Mapped[str] = mapped_column(String(128), default="Нет бренда")
+    sanitized_title: Mapped[str] = mapped_column(Text, default="")
+    sanitized_description: Mapped[str] = mapped_column(Text, default="")
+    quality_report_json: Mapped[dict] = mapped_column(JSON, default=dict)
+    dry_run_result_json: Mapped[dict] = mapped_column(JSON, default=dict)
+    template_file_path: Mapped[str] = mapped_column(Text, default="")
+    image_status: Mapped[str] = mapped_column(String(32), default="source_only")
+    upload_ref: Mapped[str] = mapped_column(String(128), default="")
+    uploaded_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)
+    status: Mapped[str] = mapped_column(
+        String(32), default=SingleSkuStatus.AWAITING_INPUT, index=True
+    )
+    last_error: Mapped[str] = mapped_column(Text, default="")
+
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime, default=datetime.utcnow, onupdate=datetime.utcnow
+    )
+    price_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)
+    dry_run_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)

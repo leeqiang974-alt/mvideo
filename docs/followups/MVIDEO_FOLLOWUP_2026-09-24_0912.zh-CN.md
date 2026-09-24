@@ -74,3 +74,101 @@
 ## 可复制到其他对话的摘要
 
 2026-09-24 已修复 M.Video ERP 健康检查被 OMNI 外部请求阻塞的问题：基础 `/health` 现在只检查本地服务和数据库实际 schema，OMNI 探测拆到 `/health/integrations/omni`。本地完整测试 89 passed，笔记本远端语法检查通过，计划任务重启后 `/health` 返回 HTTP 200、`omni_status=not_checked`；显式 OMNI 探测接口可用，但当时返回 unavailable。未修改数据库、批量队列、价格或库存。修改前源码已备份到 `C:\MvideoERP-backups\20260924-090908`。
+
+## 后续更新：单 SKU Ozon → M.Video 后端 dry-run（2026-09-24 15:02 CST）
+
+### 跟进目标
+
+- 按用户确认的“先后端逻辑、后做界面”顺序，建立单 SKU 从 Ozon 来源到 M.Video Excel 模板行的独立 dry-run 流程。
+- 严格隔离现有批量迁移状态机；本阶段只生成待人工核对的 Excel workbook，不执行真实上传。
+
+### 变更前状态
+
+- 项目已有类目映射、批量迁移和模板能力，但没有独立的单 SKU 任务表和状态机。
+- 完整自动化基线为 89 项通过。
+- Ozon 来源 RUB 零售价、CNY 采购价、mm/g 与 M.Video cm/kg 的边界需要在后端固化，避免误把零售价当采购成本或单位填错。
+
+### 实际操作
+
+- 新增独立单 SKU ORM：
+  - `backend/app/models.py` 新增 `SingleSkuStatus` 与 `SingleSkuJob`。
+  - 字段覆盖来源证据、Ozon 类目、M.Video group/infomodel、CNY 采购成本、mm/g 包装、库存、确认标记、RUB 定价、净化标题描述、dry-run 结果和上传审计字段。
+- 更新数据库初始化：
+  - `backend/app/database.py` 在建表后执行单 SKU 表的兼容列检查；新增列允许为空，不重写历史数据。
+- 新增 `backend/app/single_sku/`：
+  - `pricing.py`：复用/承载 RUB 定价计算，输入人工确认的 CNY 成本及规格数据。
+  - `brand_sanitizer.py`：品牌固定为 `Нет бренда`，净化标题和描述中的品牌内容，保留型号。
+  - `workflow.py`：独立创建任务、校验 confirmed 类目映射、校验采购价/库存/材质/证书/TN VED、执行单位换算、计算售价、构造切带机模板第 5 行并输出 dry-run workbook。
+  - `__init__.py`：包初始化文件。
+- 新增 `tests/test_single_sku_workflow.py`，覆盖单位换算、RUB 不得作为 CNY 成本、定价、Excel 行列位、无上传状态、类目/库存/合规阻断和旧表补列。
+- 更新 `AGENTS.md`，把单 SKU 独立模型、dry-run 边界、固定切带机映射、单位换算和品牌规则固化为项目长期规则。
+- 更新 `.gitignore`，忽略测试和 dry-run 生成目录 `/work/single_sku/`。
+- 新增 `pytest.ini`，将默认测试路径限定为 `tests`，避免误收集 `work/_make_test.py` 这类手动 HTTP 脚本。
+
+### 涉及文件、服务、数据
+
+- 代码与测试：
+  - `backend/app/models.py`
+  - `backend/app/database.py`
+  - `backend/app/single_sku/__init__.py`
+  - `backend/app/single_sku/pricing.py`
+  - `backend/app/single_sku/brand_sanitizer.py`
+  - `backend/app/single_sku/workflow.py`
+  - `tests/test_single_sku_workflow.py`
+- 规则与配置：
+  - `AGENTS.md`
+  - `.gitignore`
+  - `pytest.ini`
+  - `docs/followups/MVIDEO_FOLLOWUP_2026-09-24_0912.zh-CN.md`
+- 未重启笔记本或本机后端服务，未执行真实 M.Video 上传，未修改生产数据库、价格、库存、批量队列或密钥。
+- dry-run Excel 仅输出到本地 `work/single_sku/`，该目录已被 Git 忽略。
+
+### 关键业务规则落地
+
+- Ozon 的 RUB 零售价只保存为来源证据，绝不自动作为 CNY 采购成本。
+- CNY 采购价必须由人工确认，并且为有限、大于 0 的数值。
+- M.Video 库存必须为大于 0 的正整数，RUB 售价由定价模型输出并在发布前确认。
+- 精确换算：`mm ÷ 10 -> cm`，`g ÷ 1000 -> kg`；定价函数尺寸使用 cm，Excel 重量使用 kg。
+- 切带机固定使用 Ozon 类目 `17029021`、M.Video group `604171101`、infomodel `INF-307590`；模板为 `work/template_dispenser.xlsx`，数据行为第 5 行。
+- 类目映射必须为 `confirmed`；证书、TN VED、材质等类目要求不满足时阻断。
+- 品牌统一写 `Нет бренда`；标题和描述去除品牌内容，型号允许保留。
+
+### 验证证据
+
+- 语法编译通过：
+
+```powershell
+python -m py_compile backend/app/models.py backend/app/database.py backend/app/single_sku/__init__.py backend/app/single_sku/pricing.py backend/app/single_sku/brand_sanitizer.py backend/app/single_sku/workflow.py
+```
+
+- 验证过程中先发现并修正两个实现问题：
+  - `workflow.py` 缺少 `SingleSkuJob` 导入，已补充。
+  - Python 3.14 当前环境的 `Decimal` 不支持 `is_integer()`，库存整数判断已改为余数判断。
+- 新增单测单独运行结果：`7 passed`。
+- 最终按项目标准命令运行：
+
+```powershell
+python -m pytest -q
+```
+
+- 最终结果：`96 passed, 167 warnings in 22.90s`。
+- 测试已断言 dry-run 结果中 `upload_ref == ""`、`uploaded_at is None`，确认本阶段没有真实上传。
+
+### 剩余风险
+
+1. 当前只完成后端 dry-run 能力，尚无人工核对界面或 API 路由，运营暂时不能从页面操作。
+2. 当前发布规则只落地切带机类目；其他类目必须先补齐 confirmed 映射、95 列模板、group/infomodel、证书、TN VED、材质和品牌授权规则。
+3. 自动测试覆盖关键字段和阻断条件，但尚未进行业务人员对整份 95 列模板的逐列人工复核。
+4. 本次变更尚未部署到笔记本生产环境；当前仅在工作站完成验证和 Git 留档。
+5. 输出中的 deprecation warnings 来自既有 FastAPI/SQLAlchemy 用法和新增时间戳写法，当前不影响功能，后续可单独治理。
+
+### 恢复/回滚方式
+
+1. 本次提交尚未部署前，可直接回退该提交，恢复到上一个 Git 版本。
+2. 如果某环境已经初始化过新表且确认没有需要保留的单 SKU 任务，可在回退代码后手动删除 `single_sku_jobs` 表；删除前必须先备份数据库。
+3. 本地生成的 dry-run workbook 位于忽略目录 `work/single_sku/`，可按需删除，不影响源码。
+4. 回滚后重新运行 `python -m pytest -q`，确认恢复到回滚版本的测试状态。
+
+### 可复制到其他对话的摘要
+
+2026-09-24 已完成 M.Video 单 SKU Ozon → M.Video 后端 dry-run：新增独立 `SingleSkuJob` / `single_sku_jobs`，没有混入批量迁移状态机；支持人工确认正 CNY 采购价和正整数库存，精确执行 `mm ÷ 10`、`g ÷ 1000`，调用定价模型生成 RUB 售价，品牌固定为 `Нет бренда` 并净化标题描述，最终生成切带机 95 列模板第 5 行。Ozon RUB 价格仅保留为证据，不会作为 CNY 成本；当前不设置上传引用、不上传。新增 7 个单测，最终完整测试 `96 passed`。dry-run 文件输出到已忽略的 `work/single_sku/`，尚未部署到笔记本生产环境。

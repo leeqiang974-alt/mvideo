@@ -6,7 +6,7 @@ busy_timeout + foreign_keys ON; Postgres uses pool_pre_ping.
 
 from __future__ import annotations
 
-from sqlalchemy import create_engine, event
+from sqlalchemy import create_engine, event, inspect, text
 from sqlalchemy.orm import DeclarativeBase, sessionmaker
 from sqlalchemy.pool import NullPool
 
@@ -53,3 +53,46 @@ def init_db() -> None:
     from . import models  # noqa: F401  (ensure models are imported on Base.metadata)
 
     Base.metadata.create_all(bind=engine)
+    ensure_single_sku_jobs_columns(engine)
+
+
+def ensure_single_sku_jobs_columns(bind) -> None:
+    """Add columns introduced after the first single-SKU table release.
+
+    The project supports SQLite by default and Postgres in production. New
+    columns are nullable: application defaults remain on the ORM model, while
+    historical rows are safely left as NULL instead of being rewritten.
+    """
+    inspector = inspect(bind)
+    if not inspector.has_table("single_sku_jobs"):
+        return
+
+    existing = {column["name"] for column in inspector.get_columns("single_sku_jobs")}
+    dialect = bind.dialect.name
+    if dialect == "postgresql":
+        column_types = {
+            "template_file_path": "TEXT",
+            "image_status": "VARCHAR(32)",
+            "upload_ref": "VARCHAR(128)",
+            "uploaded_at": "TIMESTAMP",
+            "compliance_documents_json": "JSON",
+            "color": "VARCHAR(64)",
+        }
+    else:
+        column_types = {
+            "template_file_path": "TEXT",
+            "image_status": "VARCHAR(32)",
+            "upload_ref": "VARCHAR(128)",
+            "uploaded_at": "TIMESTAMP",
+            "compliance_documents_json": "JSON",
+            "color": "VARCHAR(64)",
+        }
+
+    for column_name, column_type in column_types.items():
+        if column_name in existing:
+            continue
+        ddl = text(
+            f"ALTER TABLE single_sku_jobs ADD COLUMN {column_name} {column_type}"
+        )
+        with bind.begin() as conn:
+            conn.execute(ddl)
