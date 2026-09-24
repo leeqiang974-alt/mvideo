@@ -5,6 +5,12 @@
 - 用户澄清：只维护一份 M.Video ERP 累计跟进报告，不再按每个对话或每次变更新建报告文件。
 - `AGENTS.md` 已改为固定累计更新本文件；该项目报告不得与 Ozon ERP 合并。
 
+## 后续更新：GitHub 初始化与全量留档（2026-09-24）
+
+- 用户指定远端 `git@github.com:leeqiang974-alt/mvideo.git`；已在 `E:\mvideo\MvideoERP` 初始化 Git，并保持 `.env`、数据库、日志等由 `.gitignore` 排除。
+- 初始完整快照提交：`3b40e0f`（`chore: initial Mvideo ERP snapshot`）。远端已有仅含 README 的初始化提交，已合并并以本项目完整 README 解决冲突，合并提交为 `1922e79`。
+- 已成功推送 `main` 到 GitHub，且本地 `main` 已跟踪 `origin/main`。
+
 ## 跟进目标
 
 - 处理前期审计发现的高优先级可用性问题：基础 `/health` 被外部 OMNI 网络探测阻塞。
