@@ -328,3 +328,17 @@ M.Video 单 SKU intake API 已提交并推送 GitHub：提交 `06e95c7e0113b3ed7
 ### GitHub 提交与推送状态
 
 - 截至本节写入，功能验证已完成但尚未提交；提交 SHA 和推送结果将在推送完成后追加。
+
+### 提交与推送结果（推送完成后补记）
+
+- 功能提交：`82cee2769c70b21b68c91d067acf7dcaedfe72d6`（`feat: add single-SKU review and dry-run workbook API`）。
+- 分支：`main`；远端：`git@github.com:leeqiang974-alt/mvideo.git`。
+- 推送结果：`95d737f..82cee27  main -> main`。
+- 推送前在工作站复跑：`.\.venv\Scripts\python.exe -m compileall -q backend\app` 通过；全量测试 `121 passed, 210 warnings`。
+- 本次只完成工作站代码与 GitHub 留档，未部署到笔记本生产环境，未触发真实 M.Video 上传；任务仍保持 `upload_performed=false`、`upload_ref=""`、`uploaded_at=null`。
+- `work/downloads/_test_oss.xlsx` 继续保持未暂存，未纳入提交。
+- 本补记确认并取代前文“截至本节写入，功能验证已完成但尚未提交”的临时状态。
+
+#### 可复制到其他对话的补充摘要
+
+M.Video 单 SKU 运营复核 API 与 dry-run workbook 已提交并推送 GitHub：功能提交 `82cee2769c70b21b68c91d067acf7dcaedfe72d6`，分支 `main`，远端 `git@github.com:leeqiang974-alt/mvideo.git`，推送结果 `95d737f..82cee27 main -> main`。推送前全量测试 `121 passed`。本次未部署、未真实上传，`work/downloads/_test_oss.xlsx` 仍未暂存。
