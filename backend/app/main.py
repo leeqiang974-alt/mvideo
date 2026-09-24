@@ -38,11 +38,13 @@ from .pipeline.order_service import list_fbs_orders, summarize_orders
 from .pipeline.reconcile import reconcile_batch
 from .pipeline.report_service import batch_report
 from .single_sku.api import router as ozon_single_sku_router
+from .single_sku.review_api import router as single_sku_review_router
 
 log = logging.getLogger("mvideo.api")
 
 app = FastAPI(title="MvideoERP", version="0.4")
 app.include_router(ozon_single_sku_router)
+app.include_router(single_sku_review_router)
 
 
 @app.on_event("startup")

@@ -284,3 +284,47 @@ python -m pytest -q
 ### 可复制到其他对话的补充摘要
 
 M.Video 单 SKU intake API 已提交并推送 GitHub：提交 `06e95c7e0113b3ed799e3119bb9e1dc9d65a64c4`，分支 `main`，远端 `git@github.com:leeqiang974-alt/mvideo.git`。提交前复验 `19 passed` 专项测试与 `115 passed` 全量测试；外部独立审查因平台 `MissingParameter: partial` 错误未形成结论。本次未部署、未真实上传，且未提交 `work/downloads/_test_oss.xlsx` 的未解释二进制差异。
+## 后续更新：单 SKU 运营复核 API 与 dry-run workbook（2026-09-24）
+
+### 跟进目标
+
+- 在独立 `SingleSkuJob` / `single_sku_jobs` 模型上补齐运营复核后端，使运营人员可以读取来源证据，并提交人工确认的 CNY 采购价、库存、颜色、利润率、物流渠道和合规信息。
+- 继续严格限制为 dry-run：只生成 Excel 模板工作簿，不调用 M.Video 商品创建接口，不写入 `upload_ref`，不设置 `uploaded_at`。
+
+### 实际修改
+
+- 新增 `backend/app/single_sku/review_api.py`：
+  - `GET /api/v1/single-sku-jobs/{job_ref}`：返回来源证据、类目映射、mm/g 尺重及 cm/kg 换算、人工确认标记、定价结果、内容净化结果、dry-run 结果、上传状态和阻断原因。
+  - `POST /api/v1/single-sku-jobs/{job_ref}/dry-run`：接收人工确认信息并调用独立 workflow 的 `prepare_dry_run(...)`；业务阻断返回 HTTP 422 和具体 blockers。
+  - `GET /api/v1/single-sku-jobs/{job_ref}/dry-run/workbook`：安全下载已生成的 `.xlsx` 文件。
+- 修改 `backend/app/main.py`，注册运营复核 router。
+- 保留并纳入 `backend/app/single_sku/workflow.py` 的已定修正：定价前校验目标利润率和物流渠道，定价后持久化规范化的 margin/channel。
+- 新增 `tests/test_single_sku_review_api.py`，覆盖任务详情、合法确认、dry-run、workbook 下载、缺少 CNY 采购价阻断、额外字段拒绝、未生成 workbook、下载路径越界。
+
+### 安全边界
+
+- Ozon 的 RUB 零售价只作为来源证据；自动定价只接受人工确认且大于 0 的 CNY 采购价。
+- 库存必须为大于 0 的整数；包装长、宽、高、重必须完整；售价由后端统一定价模型输出。
+- 单位精确换算为 `mm ÷ 10 = cm`、`g ÷ 1000 = kg`。
+- workbook 下载路径解析后必须位于 `work/single_sku`，后缀必须为 `.xlsx`，防止路径越权读取。
+- 品牌固定 `Нет бренда`；标题和描述继续净化品牌内容，允许保留型号。
+- 当前没有真实上传：响应和任务中 `upload_performed=false`、`upload_ref=""`、`uploaded_at=null`。
+
+### 验证证据
+
+- `.\.venv\Scripts\python.exe -m compileall -q backend\app` 通过。
+- 专项测试：`6 passed, 29 warnings`。
+- 全量测试：`121 passed, 210 warnings`。
+- 验证时发现 C 盘可用空间为 0 字节，openpyxl 写系统临时目录失败；本轮将 `TEMP/TMP` 临时定向到 `E:\mvideo\temp-codex` 后完成测试，未清理或改动用户文件。
+
+### 剩余事项
+
+1. 运营复核前端界面尚未实现。
+2. 本轮未部署到笔记本生产环境。
+3. 真实上传仍保持禁用；后续应在人工最终确认和合规预检通过后，再单独设计上传确认步骤。
+4. 其他类目仍需逐一确认 M.Video group/infomodel、模板、TN VED、证书和品牌授权规则。
+5. `work/downloads/_test_oss.xlsx` 的 1 字节未解释差异仍未暂存。
+
+### GitHub 提交与推送状态
+
+- 截至本节写入，功能验证已完成但尚未提交；提交 SHA 和推送结果将在推送完成后追加。

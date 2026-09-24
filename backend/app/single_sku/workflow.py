@@ -25,7 +25,9 @@ from .brand_sanitizer import NO_BRAND, sanitize_listing
 from .pricing import (
     PricingError,
     calculate_price,
+    normalize_shipping_channel,
     pricing_json_safe,
+    require_rate,
     to_decimal,
 )
 
@@ -658,8 +660,16 @@ def prepare_dry_run(
     job.image_status = "source_ready"
     job.status = "priced"
 
-    margin_value = target_net_margin if target_net_margin is not None else job.target_net_margin
-    channel_value = shipping_channel if shipping_channel is not None else job.shipping_channel
+    margin_raw = target_net_margin if target_net_margin is not None else job.target_net_margin
+    channel_raw = shipping_channel if shipping_channel is not None else job.shipping_channel
+    try:
+        margin_value = require_rate(margin_raw, target_net_margin)
+        channel_value = normalize_shipping_channel(channel_raw)
+    except PricingError as exc:
+        _block_job(session, job, [str(exc)])
+    job.target_net_margin = margin_value
+    job.shipping_channel = channel_value
+
     try:
         pricing = calculate_price(
             purchase_cost_cny=cost,
@@ -675,6 +685,8 @@ def prepare_dry_run(
     except PricingError as exc:
         _block_job(session, job, [str(exc)])
 
+    job.target_net_margin = pricing["target_net_margin"]
+    job.shipping_channel = pricing["shipping_channel"]
     job.price_rub = pricing["price_rub"]
     job.pricing_result_json = pricing_json_safe(pricing)
     job.price_at = datetime.utcnow()
