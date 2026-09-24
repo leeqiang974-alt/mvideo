@@ -1,0 +1,5551 @@
+{
+ "buckets": {
+  "no_xlsx": 16,
+  "only_FAILED(NOT_IN_HISTORY)": 101,
+  "in_SUCCEEDED_file": 6,
+  "only_FAILED(FAILED_AUTO)": 310,
+  "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)": 50,
+  "only_FAILED(FAILED)": 9,
+  "in_PARTIAL_file": 19
+ },
+ "detail": [
+  {
+   "offer_id": "OZD999C1077E",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZBC076DF5CE",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZFDC41BC6D1",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZF0F01580AE",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZ696065352F",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ94A1896E83",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ388F45751C",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ17DB9E1EFA",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZE59F26E0E4",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZDD7D6E5429",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ33D4CE530E",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ605DF5B87C",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ21B034D541",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ0FA8A55A40",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789894359_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ49F21876C2",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ3F0C69FBFB",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ3AACF3F7AB",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ7C8135BD47",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZDDBA99FE60",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ140FF1246D",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ2BDF1715EB",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZA9E31D4568",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZCC50675CD4",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ577C813AE7",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ99490E6773",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZA05D24D7D7",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ50047B17C1",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZA5C09B59D0",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ1E4C333F49",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789896130_clean.xlsx",
+    "auto_1789896207_clean.xlsx",
+    "auto_1789896216_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-258",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-82",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-1",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-139",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-116",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-219",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-179",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-104",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-136",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-16",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-128",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-111",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-6",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-144",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-114",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-263",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-137",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-117",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-135",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-184",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-266",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-154",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-13",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-71",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-271",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-165",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-40",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-215",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-115",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918000_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-206",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-191",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-223",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-254",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-24",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-267",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-268",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-43",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-288",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-92",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-77",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-112",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-53",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-133",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-240",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-76",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-113",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-278",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-28",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-175",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU00239-96",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789918592_clean.xlsx",
+    "ru_1790059715_013_clean.xlsx",
+    "ru_1790091102_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU01306-Логотип «Джurrassic Park INGEN»",
+   "cat": "in_SUCCEEDED_file",
+   "files": [
+    "auto_1789923397_clean.xlsx",
+    "ru_1790060841_017_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "SUCCEEDED"
+   ]
+  },
+  {
+   "offer_id": "sku10099-save",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789924382_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "sku10099-Топор Роуз",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789924382_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "sku10099-Дракон",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "sku10099-Замок",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789924382_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "sku10099-Любовь",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "sku10099-Излучение",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "SKU01295-Игровой автомат «Тетрис»",
+   "cat": "in_SUCCEEDED_file",
+   "files": [
+    "auto_1789924382_clean.xlsx",
+    "ru_1790061171_018_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "SUCCEEDED"
+   ]
+  },
+  {
+   "offer_id": "SKU01229-торт динозавр",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789924382_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU01228-Карандаш Губка Боб",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789924941_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU01227",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789924941_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU01224-волшебное зеркало",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789924941_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU02692-XZ1806",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789925465_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "SKU02692-XZ3137",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "KC000005-XZ6031",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789928223_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZF626A0A867",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789928715_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ5151BBC154",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789928715_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ4920596C44",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789928715_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZB3C118F5A4",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789928715_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ1348D197DB",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789928715_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZE3499509FB",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789929202_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ3958155946",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789929721_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ2910CE8F70",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789929721_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZFF85F7F9D1",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZD69C30799C",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZD572E77BBB",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZA5048FA083",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZ4F43208B4D",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZ3A59E4109C",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZCB0FB81366",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZ23C863CC5F",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789972732_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ5736D814BF",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789972732_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZB5037D6C47",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789972732_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ220ADA52EA",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789972732_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ084CDE633E",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789972732_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ6F8D1ABE64",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789972732_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ6C5160949E",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789972732_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZDA61FF667D",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789973400_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ8428391EF2",
+   "cat": "only_FAILED(NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789973400_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ4222434120",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ714F999FFE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ738CD238F3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ13A74E0E00",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ690CDFBE73",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ998B78F802",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5C1A34F501",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZEF3D0542EE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5FB1A8674A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ59024A4EF1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5BDE16C377",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4CDBE90F91",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA7B7BFB5CF",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZCE74D287F2",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976283_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ90B57B1D29",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ30E8291A2C",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA21C797149",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6738BC08E5",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ16443B515A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ68E056668A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ606E0E0528",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZCD22C7CD54",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC12A30763B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5F7A2F33B1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD4CBDC660D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ805845EF65",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ951672807E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4C3F5BD4EA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ752FBC517A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789976839_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE54079F8D7",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ76209E68C4",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4CD9EAF7F8",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ897563F728",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ51F5216E4E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ80E953BFA4",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ1967FB1684",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA3F60F70C3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA3509205B3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ78C7A597E6",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ101BA6508F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4F86E5A4E7",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8824D80139",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3300A3EED3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ499A19B923",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA54450A59A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC83523EF3D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ301A1D6A1E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3ABE0C9924",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8CC121EF80",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ54CC83B059",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ252E8012FC",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ659AA948B7",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD6AAA59C54",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977353_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0A52E0CF2D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977913_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0908AA1866",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977913_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ53F4157852",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977913_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2FAE83D428",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977913_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8C30419DB1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977913_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ51D4390088",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977913_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3E1FB40D0B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977913_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3A0D6B9544",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789977913_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE2501298B5",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789979806_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ338098B9F1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789979806_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD7C1E9B85F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789979806_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ549884E189",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789979806_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA6BD904CD5",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789979806_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ1C520CB33A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789979806_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ114B08A0BF",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789979806_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZB9355F4601",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2B333A00DD",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5FD2B06A06",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZACDBA3B99F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ09B23BDD5B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ077BB7CA01",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ9F502B022B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8DF00D0715",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ23539AF949",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ7FA93CE53D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ191778300C",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6C91BE1BF2",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZDE5F356BDB",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3BF28D4131",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5DB5E423C4",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE8F5FAD61D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ05BE80825F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ901D7BC9DB",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2C72366618",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA2FA5E8762",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6DC70A4ABD",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC14D7E66EF",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZCA17FA76D3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980368_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5649410E80",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8711EFEE79",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC15CC12FB5",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ32484C1B73",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8F7ACE31DC",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6C69450B26",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4F969DBEA0",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ9FA76D8FC1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ57F30ACBDA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZAB65A77011",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ01937D92B1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ317A8985E3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ52B56E5E8A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ64EE0B9837",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD140AC5490",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC391CFA8A1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ35661D2A94",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4359B63B4F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3BD86D99B1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ78CA7F80D4",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ915C01F138",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ15BC8F7F12",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZB172CEB997",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ1EE991C8AA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ277A43E75F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ27F818DE21",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZAFD8E4AD10",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD10B0344BF",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ9AE33DE9B7",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2C615203F1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ758886A735",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ491B143C3F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ67B7478939",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3641F47697",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4633285DE6",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA58A2C1B25",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ7A41698262",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ44E71A82CF",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0CD8E13FA3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZF79C944C7E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZB6F27092A1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ722E25632E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD93EA23FEB",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ30F57D27F2",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZF00937C9CE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZF9DAE1E3FE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA15EF2CAD3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ04687858B6",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ415634DF3A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZDC79EB2B4B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE0687BB8C5",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789980972_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD73D34D277",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZAED2FA3ABB",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ98B50590BB",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC266726895",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZB8562198B7",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZDE3B78760E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ40F2298F80",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZDB0C3C6698",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZCF0C2E584B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZAEA068C32A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZB816CD0B4A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA81C782C8E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ854F888DD2",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8A49CF1022",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6C17373BB1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ9CC4295D5E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE52805ED29",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ98D048AAF1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZBF0654943E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ9E8F7CC979",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8411F5874E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5904FFB7EB",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5BC4B0B875",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ828F89F010",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3A5C83C0DC",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE8C798E22A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZEDFC457148",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZCA2AF5EA90",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ31829612C9",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ210D236B6B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ405F46B0CA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3090255928",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789981549_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ22C9440809",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ46DC385995",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3E7038E243",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ70AF0E53BA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ9D82AA5740",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ280F5F202D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ7549B90234",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ7893E37DD4",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZFCCF4B808E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3DBE5BE079",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA20B552442",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZA2B9B99574",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4E3078D448",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ836990E5FE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ539DEB848F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZFD9DB5D18E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZBB76570867",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC6AC5C33E8",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ41191AD9C7",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0E66EDF5E0",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZAADFEC4238",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5B4EB9E9CE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZCE85F07E4F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ93E8975D97",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ069855AA98",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ10714C75DC",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ284EF7BB1F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5E5680A356",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2488678BEA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD0D9BFAEC0",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZFDA39DD4C0",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZFB0EB1AE44",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD64DDD7975",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ400B863ECD",
+   "cat": "no_xlsx",
+   "files": [],
+   "status": []
+  },
+  {
+   "offer_id": "OZ1EF725AF29",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ93CD399948",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC5476AB5E5",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE4B5CADE0C",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE90B3F6031",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2A89646BFD",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZF477E8B7A3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ801AC3DEDD",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC8EC6C341C",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ80D9F23AED",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZB192CB4497",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983161_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ93B7555EA9",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ1CA496CC37",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ458C2EB560",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4EDB5A2CD6",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ36FC890EED",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZAB01065472",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ781C9F7A27",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ10B5634CE7",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ74E8760014",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ83FD32D70B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ37402FDF2D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ7E6E8D2BF8",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6CAECCD6B8",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789983700_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ619E31AEC3",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789983700_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ929355E17E",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789983700_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ8249BE3738",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789983700_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ7B5C083B97",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789983700_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ2DD5758588",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789983700_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "XY000005-6297602242558",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789983700_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "XY000005-6297602242557",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789983700_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ0ACB0705C3",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZEFA7B42996",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ0F9AB7D6BB",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ175C5AF2CE",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ83409BA2BE",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ17DC2573E2",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ3656CD6C1E",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZF1C18548D3",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZB5B11A3203",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ055C34A1A8",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ1FB4E33589",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZA307DCF17C",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZB2BBCDB812",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ480A6BD867",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ8115913DE5",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ973CD7DB45",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ3FC55B4826",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ5C6DE0DBF5",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789997508_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ7FFCC63729",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZC87B7EBDE1",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZB2043973A1",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ5F39FE5B61",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZB55DA058CD",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ7DB89747A6",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZEBC0A750D1",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ9A7643B3B8",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZEC7A727FF4",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZF235E9CC67",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789998438_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZC69300C26A",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789999243_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ46825B6BEF",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789999243_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZFEA211B4AC",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1789999243_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZF9B54B3C22",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789999243_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ48A3F236AC",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789999243_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ7BD9B4ABA3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789999243_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0A90D2835D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789999243_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZCDFBFCC428",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789999243_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZFC8E0AADDA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789999243_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ7EE57FE468",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789999243_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZB7E303B2C4",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789999243_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZFC9FD899FE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1789999243_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5CCB824FF6",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790035969_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ7E9E61BD1C",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790035969_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ49F1B699A6",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790035969_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZC9FEFED70A",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790035969_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ1E12060DBF",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790035969_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZEC112575FA",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790035969_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZC9B3FA9216",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790035969_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZB36A4FF50A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE901239DBE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6977CA0C28",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6739B58853",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ93C90109F2",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ50867B568C",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ17FBBF1F32",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC31848B95D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5ACC74C7E6",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD70F13A518",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4A478879BF",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ564616AF40",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6CE19E494B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ917ECD5543",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ40249BEAE1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790035969_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZF4AFA8516F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790036383_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8E6DA3ED71",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790036383_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ11FC22055A",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790036383_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZB37972642A",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790036383_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZF2E9F763AD",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790036383_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZB56FA296AB",
+   "cat": "only_FAILED(FAILED_AUTO,NOT_IN_HISTORY)",
+   "files": [
+    "auto_1790036383_clean.xlsx",
+    "ru_1790087721_062_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO",
+    "NOT_IN_HISTORY"
+   ]
+  },
+  {
+   "offer_id": "OZ7552F98B5B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790036383_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ126BCDB5BE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790036383_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ89A1D52DCF",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790036383_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4B86D3891B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790036383_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE64AD0D584",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790036383_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0C19EBD32D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790037176_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4064966610",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790037176_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ384A52E445",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790037176_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5EE0E6D521",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790037176_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC801801C39",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790037176_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ6C71F91ED2",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790037176_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC67A04300A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790037176_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ78AD9C824A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790037176_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8895459370",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790037176_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD50CE010B3",
+   "cat": "only_FAILED(FAILED)",
+   "files": [
+    "auto_1790037630_clean.xlsx"
+   ],
+   "status": [
+    "FAILED"
+   ]
+  },
+  {
+   "offer_id": "OZ9102B800C3",
+   "cat": "only_FAILED(FAILED)",
+   "files": [
+    "auto_1790037630_clean.xlsx"
+   ],
+   "status": [
+    "FAILED"
+   ]
+  },
+  {
+   "offer_id": "OZ6D5B4147CE",
+   "cat": "only_FAILED(FAILED)",
+   "files": [
+    "auto_1790037630_clean.xlsx"
+   ],
+   "status": [
+    "FAILED"
+   ]
+  },
+  {
+   "offer_id": "OZ61963D861F",
+   "cat": "only_FAILED(FAILED)",
+   "files": [
+    "auto_1790037630_clean.xlsx"
+   ],
+   "status": [
+    "FAILED"
+   ]
+  },
+  {
+   "offer_id": "OZ835F6A56D5",
+   "cat": "only_FAILED(FAILED)",
+   "files": [
+    "auto_1790038422_clean.xlsx"
+   ],
+   "status": [
+    "FAILED"
+   ]
+  },
+  {
+   "offer_id": "OZA5032129F4",
+   "cat": "only_FAILED(FAILED)",
+   "files": [
+    "auto_1790038422_clean.xlsx"
+   ],
+   "status": [
+    "FAILED"
+   ]
+  },
+  {
+   "offer_id": "OZ0366A9F641",
+   "cat": "only_FAILED(FAILED)",
+   "files": [
+    "auto_1790038422_clean.xlsx"
+   ],
+   "status": [
+    "FAILED"
+   ]
+  },
+  {
+   "offer_id": "OZAE19AD7EA0",
+   "cat": "only_FAILED(FAILED)",
+   "files": [
+    "auto_1790038422_clean.xlsx"
+   ],
+   "status": [
+    "FAILED"
+   ]
+  },
+  {
+   "offer_id": "OZFF029F24EB",
+   "cat": "only_FAILED(FAILED)",
+   "files": [
+    "auto_1790038422_clean.xlsx"
+   ],
+   "status": [
+    "FAILED"
+   ]
+  },
+  {
+   "offer_id": "OZ164E774204",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC2AD5A3F08",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0E0A6BA6FA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ1A1CAEBCFB",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ34AAA9AFA7",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ58FC8FD3C1",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ7EA137D98D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0A58869BDB",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZCBEFE39AEA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZAD49A610A6",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ9573D8DB4D",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ4C0142E708",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ8422F7CA87",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC4BF008DEE",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZDFF70318A8",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZB551274B75",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZDB29B50F3F",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ15BB2ECA17",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0CE0E52B63",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ7300A1AC59",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZF20D099191",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2F02B19F97",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ40FCBFFBA8",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZD4B8B119C2",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ0B5B7CE1EA",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZC0F8ED3DC3",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ56FB0A62F2",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ9CA1C12384",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ461556DD62",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2A03ACDF2B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2510754A20",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5B4790E681",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZDF34EB150A",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ56B62A1457",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5BECAF1620",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZF85FCB8F2B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ3D73CB2272",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ09710EAEC6",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ2CB18EA71B",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZE3DFE4D63E",
+   "cat": "only_FAILED(FAILED_AUTO)",
+   "files": [
+    "auto_1790038812_clean.xlsx"
+   ],
+   "status": [
+    "FAILED_AUTO"
+   ]
+  },
+  {
+   "offer_id": "OZ5D6FD9F906",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789933265_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZC2B5F277E0",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789933265_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZE8EEB5FDEF",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789936435_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZA2A74C7CAA",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789936435_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZ1508EB527A",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789936435_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZA77B40C882",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789989105_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZ8FC104ADF9",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789989105_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZ376B8F1E81",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789989105_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZ6CE61471C9",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789995295_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZ26B1FB884C",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789996330_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZB8A8D677AC",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789996330_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZB75A4E09CB",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789996330_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZ0BFEBADF40",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789996330_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZ5BAA8F198F",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789996330_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZE635829343",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789999975_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZ586DF0B256",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789999975_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZBF4B74AEB1",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1789999975_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZA1A421C621",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1790039598_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZD6500FC3B3",
+   "cat": "in_PARTIAL_file",
+   "files": [
+    "auto_1790039598_clean.xlsx"
+   ],
+   "status": [
+    "SUCCEEDED_PARTIALLY"
+   ]
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "in_SUCCEEDED_file",
+   "files": [
+    "auto_1789879499_clean.xlsx",
+    "ru_1790053700_001_clean.xlsx",
+    "ru_1790054559_000_clean.xlsx",
+    "ru_1790094720_000_clean.xlsx",
+    "ru_1790094720_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED"
+   ]
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "in_SUCCEEDED_file",
+   "files": [
+    "auto_1789879499_clean.xlsx",
+    "ru_1790053700_001_clean.xlsx",
+    "ru_1790054559_000_clean.xlsx",
+    "ru_1790094720_000_clean.xlsx",
+    "ru_1790094720_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED"
+   ]
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "in_SUCCEEDED_file",
+   "files": [
+    "auto_1789879499_clean.xlsx",
+    "ru_1790053700_001_clean.xlsx",
+    "ru_1790054559_000_clean.xlsx",
+    "ru_1790094720_000_clean.xlsx",
+    "ru_1790094720_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED"
+   ]
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "in_SUCCEEDED_file",
+   "files": [
+    "auto_1789879499_clean.xlsx",
+    "ru_1790053700_001_clean.xlsx",
+    "ru_1790054559_000_clean.xlsx",
+    "ru_1790094720_000_clean.xlsx",
+    "ru_1790094720_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790094884_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095044_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx",
+    "ru_1790095229_000_clean.xlsx"
+   ],
+   "status": [
+    "NOT_IN_HISTORY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED_PARTIALLY",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED",
+    "SUCCEEDED"
+   ]
+  }
+ ]
+}

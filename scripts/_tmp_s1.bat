@@ -1,0 +1,2 @@
+@echo off
+powershell -NoProfile -Command "$j=Get-Content E:\mvideo\MvideoERP\sku00259_full.json -Raw -Encoding UTF8 | ConvertFrom-Json; $rows=@(); foreach($v in $j.products){ $offer=$v.offer_id; $price=[decimal]$v.price; $stock=0; if($v.sources -is [array]){ $fbs=$v.sources | Where-Object { $_.source -eq 'fbs' } | Select-Object -First 1; if($fbs -and $fbs.instock){ $stock=[int]$fbs.instock } }; $rows += [PSCustomObject]@{offer=$offer; cny=$price} }; $rows | Format-Table -AutoSize"

@@ -1,0 +1,602 @@
+[
+  {
+    "offer_id": "SKU00259-Жёлтый смайлик",
+    "sku_id": 2714755623,
+    "price": "119.00",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-q/7995428702.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Жёлтый_смайлик\\01.jpg",
+        "local_bytes": 168346
+      },
+      {
+        "idx": 2,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-x/7995428745.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Жёлтый_смайлик\\02.jpg",
+        "local_bytes": 240503
+      },
+      {
+        "idx": 3,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-3/7995427167.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Жёлтый_смайлик\\03.jpg",
+        "local_bytes": 143140
+      },
+      {
+        "idx": 4,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-5/7995428105.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Жёлтый_смайлик\\04.jpg",
+        "local_bytes": 170828
+      },
+      {
+        "idx": 5,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-e/7995427754.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Жёлтый_смайлик\\05.jpg",
+        "local_bytes": 116984
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259",
+    "sku_id": 1794127281,
+    "price": "119.00",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-9/7554749661.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259\\01.jpg",
+        "local_bytes": 186389
+      },
+      {
+        "idx": 2,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-9/7554749733.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259\\02.jpg",
+        "local_bytes": 269417
+      },
+      {
+        "idx": 3,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-6/7554749766.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259\\03.jpg",
+        "local_bytes": 152686
+      },
+      {
+        "idx": 4,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-3/7554749727.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259\\04.jpg",
+        "local_bytes": 178919
+      },
+      {
+        "idx": 5,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-l/7554749709.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259\\05.jpg",
+        "local_bytes": 126222
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Светло-жёлтый",
+    "sku_id": 2714755251,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-s/7995428272.jpg",
+        "src_size": [
+          790,
+          1100
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый\\01.jpg",
+        "local_bytes": 217374
+      },
+      {
+        "idx": 2,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-s/9597844864.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый\\02.jpg",
+        "local_bytes": 222048
+      },
+      {
+        "idx": 3,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-g/9597845824.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый\\03.jpg",
+        "local_bytes": 222626
+      },
+      {
+        "idx": 4,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-u/9597844758.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый\\04.jpg",
+        "local_bytes": 134762
+      },
+      {
+        "idx": 5,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-d/9597844705.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый\\05.jpg",
+        "local_bytes": 186424
+      },
+      {
+        "idx": 6,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-u/9597844614.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый\\06.jpg",
+        "local_bytes": 158239
+      },
+      {
+        "idx": 7,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-u/9597844506.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый\\07.jpg",
+        "local_bytes": 175943
+      },
+      {
+        "idx": 8,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-c/9597844740.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый\\08.jpg",
+        "local_bytes": 180501
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Светло-жёлтый-hi",
+    "sku_id": 2714755262,
+    "price": "119.00",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-a/7995428254.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый-hi\\01.jpg",
+        "local_bytes": 155599
+      },
+      {
+        "idx": 2,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-d/9476410117.jpg",
+        "src_size": [
+          2048,
+          2048
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый-hi\\02.jpg",
+        "local_bytes": 154979
+      },
+      {
+        "idx": 3,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-j/9476410267.jpg",
+        "src_size": [
+          2048,
+          2048
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый-hi\\03.jpg",
+        "local_bytes": 188274
+      },
+      {
+        "idx": 4,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-7/9476412163.jpg",
+        "src_size": [
+          2048,
+          2048
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Светло-жёлтый-hi\\04.jpg",
+        "local_bytes": 164868
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Синий-hello",
+    "sku_id": 2714755337,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-q/9348024554.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Синий-hello\\01.jpg",
+        "local_bytes": 202602
+      },
+      {
+        "idx": 2,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-j/7995428587.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Синий-hello\\02.jpg",
+        "local_bytes": 237884
+      },
+      {
+        "idx": 3,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-v/7995428599.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Синий-hello\\03.jpg",
+        "local_bytes": 156994
+      },
+      {
+        "idx": 4,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-d/9348023929.jpg",
+        "src_size": [
+          1024,
+          1024
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Синий-hello\\04.jpg",
+        "local_bytes": 154244
+      },
+      {
+        "idx": 5,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-s/9348024772.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Синий-hello\\05.jpg",
+        "local_bytes": 211531
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Белый-hi",
+    "sku_id": 2714755345,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-8/9598985036.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Белый-hi\\01.jpg",
+        "local_bytes": 180361
+      },
+      {
+        "idx": 2,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-l/9598983537.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Белый-hi\\02.jpg",
+        "local_bytes": 154517
+      },
+      {
+        "idx": 3,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-g/9598983820.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Белый-hi\\03.jpg",
+        "local_bytes": 126024
+      },
+      {
+        "idx": 4,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-g/9598983388.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Белый-hi\\04.jpg",
+        "local_bytes": 115367
+      },
+      {
+        "idx": 5,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-6/9598984170.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Белый-hi\\05.jpg",
+        "local_bytes": 195606
+      },
+      {
+        "idx": 6,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-t/9598983329.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Белый-hi\\06.jpg",
+        "local_bytes": 170990
+      },
+      {
+        "idx": 7,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-w/9598984124.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Белый-hi\\07.jpg",
+        "local_bytes": 170826
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-оранжевый-hello",
+    "sku_id": 2714755370,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-p/9600411193.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-оранжевый-hello\\01.jpg",
+        "local_bytes": 182073
+      },
+      {
+        "idx": 2,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-u/9600410406.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-оранжевый-hello\\02.jpg",
+        "local_bytes": 213271
+      },
+      {
+        "idx": 3,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-9/9600411825.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-оранжевый-hello\\03.jpg",
+        "local_bytes": 105566
+      },
+      {
+        "idx": 4,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-3/9600410523.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-оранжевый-hello\\04.jpg",
+        "local_bytes": 133134
+      },
+      {
+        "idx": 5,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-t/9600412493.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-оранжевый-hello\\05.jpg",
+        "local_bytes": 158854
+      },
+      {
+        "idx": 6,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-o/9600411732.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-оранжевый-hello\\06.jpg",
+        "local_bytes": 135430
+      },
+      {
+        "idx": 7,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-r/7995427911.jpg",
+        "src_size": [
+          800,
+          800
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-оранжевый-hello\\07.jpg",
+        "local_bytes": 161751
+      },
+      {
+        "idx": 8,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-l/7995427365.jpg",
+        "src_size": [
+          790,
+          1100
+        ],
+        "src_was_3x4": false,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-оранжевый-hello\\08.jpg",
+        "local_bytes": 269716
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Зелёный-hello",
+    "sku_id": 2714755410,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-u/9475551642.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Зелёный-hello\\01.jpg",
+        "local_bytes": 238704
+      },
+      {
+        "idx": 2,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-c/9475550940.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Зелёный-hello\\02.jpg",
+        "local_bytes": 213326
+      },
+      {
+        "idx": 3,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-x/9475549989.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Зелёный-hello\\03.jpg",
+        "local_bytes": 176673
+      },
+      {
+        "idx": 4,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-s/9475550596.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Зелёный-hello\\04.jpg",
+        "local_bytes": 134413
+      },
+      {
+        "idx": 5,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-c/9475550436.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Зелёный-hello\\05.jpg",
+        "local_bytes": 149320
+      },
+      {
+        "idx": 6,
+        "src_url": "https://ir-20.ozonstatic.cn/s3/multimedia-1-9/9475551585.jpg",
+        "src_size": [
+          900,
+          1200
+        ],
+        "src_was_3x4": true,
+        "local_path": "E:\\mvideo\\MvideoERP\\work\\sku00259_processed\\SKU00259-Зелёный-hello\\06.jpg",
+        "local_bytes": 171177
+      }
+    ]
+  }
+]

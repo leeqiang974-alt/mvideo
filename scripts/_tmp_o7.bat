@@ -1,0 +1,2 @@
+@echo off
+powershell -NoProfile -Command "$body='{\"limit\":3}'; $headers=@{'Client-Id'='2367028';'Api-Key'='3559d0cd-4b49-45e9-8963-f09bcb16e6fd';'Content-Type'='application/json'}; try { $r=Invoke-RestMethod -Uri 'https://api-seller.ozon.ru/v1/product/list' -Method Post -Headers $headers -Body $body -TimeoutSec 20; Write-Output ('OK total: '+$r.result.total); $r.result.items | Select-Object -First 3 | ForEach-Object { Write-Output ('  offer: '+$_.offer_id) } } catch { Write-Output ('FAIL: '+$_.Exception.Message) }"

@@ -1,0 +1,314 @@
+[
+  {
+    "offer_id": "SKU00259-Жёлтый смайлик",
+    "sku_id": 2714755623,
+    "price": "119.00",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Жёлтый_смайлик/01.jpg",
+        "key": "mvideo/sku00259/SKU00259-Жёлтый_смайлик/01.jpg"
+      },
+      {
+        "idx": 2,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Жёлтый_смайлик/02.jpg",
+        "key": "mvideo/sku00259/SKU00259-Жёлтый_смайлик/02.jpg"
+      },
+      {
+        "idx": 3,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Жёлтый_смайлик/03.jpg",
+        "key": "mvideo/sku00259/SKU00259-Жёлтый_смайлик/03.jpg"
+      },
+      {
+        "idx": 4,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Жёлтый_смайлик/04.jpg",
+        "key": "mvideo/sku00259/SKU00259-Жёлтый_смайлик/04.jpg"
+      },
+      {
+        "idx": 5,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Жёлтый_смайлик/05.jpg",
+        "key": "mvideo/sku00259/SKU00259-Жёлтый_смайлик/05.jpg"
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259",
+    "sku_id": 1794127281,
+    "price": "119.00",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259/01.jpg",
+        "key": "mvideo/sku00259/SKU00259/01.jpg"
+      },
+      {
+        "idx": 2,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259/02.jpg",
+        "key": "mvideo/sku00259/SKU00259/02.jpg"
+      },
+      {
+        "idx": 3,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259/03.jpg",
+        "key": "mvideo/sku00259/SKU00259/03.jpg"
+      },
+      {
+        "idx": 4,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259/04.jpg",
+        "key": "mvideo/sku00259/SKU00259/04.jpg"
+      },
+      {
+        "idx": 5,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259/05.jpg",
+        "key": "mvideo/sku00259/SKU00259/05.jpg"
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Светло-жёлтый",
+    "sku_id": 2714755251,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый/01.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый/01.jpg"
+      },
+      {
+        "idx": 2,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый/02.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый/02.jpg"
+      },
+      {
+        "idx": 3,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый/03.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый/03.jpg"
+      },
+      {
+        "idx": 4,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый/04.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый/04.jpg"
+      },
+      {
+        "idx": 5,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый/05.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый/05.jpg"
+      },
+      {
+        "idx": 6,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый/06.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый/06.jpg"
+      },
+      {
+        "idx": 7,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый/07.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый/07.jpg"
+      },
+      {
+        "idx": 8,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый/08.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый/08.jpg"
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Светло-жёлтый-hi",
+    "sku_id": 2714755262,
+    "price": "119.00",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый-hi/01.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый-hi/01.jpg"
+      },
+      {
+        "idx": 2,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый-hi/02.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый-hi/02.jpg"
+      },
+      {
+        "idx": 3,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый-hi/03.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый-hi/03.jpg"
+      },
+      {
+        "idx": 4,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Светло-жёлтый-hi/04.jpg",
+        "key": "mvideo/sku00259/SKU00259-Светло-жёлтый-hi/04.jpg"
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Синий-hello",
+    "sku_id": 2714755337,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Синий-hello/01.jpg",
+        "key": "mvideo/sku00259/SKU00259-Синий-hello/01.jpg"
+      },
+      {
+        "idx": 2,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Синий-hello/02.jpg",
+        "key": "mvideo/sku00259/SKU00259-Синий-hello/02.jpg"
+      },
+      {
+        "idx": 3,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Синий-hello/03.jpg",
+        "key": "mvideo/sku00259/SKU00259-Синий-hello/03.jpg"
+      },
+      {
+        "idx": 4,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Синий-hello/04.jpg",
+        "key": "mvideo/sku00259/SKU00259-Синий-hello/04.jpg"
+      },
+      {
+        "idx": 5,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Синий-hello/05.jpg",
+        "key": "mvideo/sku00259/SKU00259-Синий-hello/05.jpg"
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Белый-hi",
+    "sku_id": 2714755345,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Белый-hi/01.jpg",
+        "key": "mvideo/sku00259/SKU00259-Белый-hi/01.jpg"
+      },
+      {
+        "idx": 2,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Белый-hi/02.jpg",
+        "key": "mvideo/sku00259/SKU00259-Белый-hi/02.jpg"
+      },
+      {
+        "idx": 3,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Белый-hi/03.jpg",
+        "key": "mvideo/sku00259/SKU00259-Белый-hi/03.jpg"
+      },
+      {
+        "idx": 4,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Белый-hi/04.jpg",
+        "key": "mvideo/sku00259/SKU00259-Белый-hi/04.jpg"
+      },
+      {
+        "idx": 5,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Белый-hi/05.jpg",
+        "key": "mvideo/sku00259/SKU00259-Белый-hi/05.jpg"
+      },
+      {
+        "idx": 6,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Белый-hi/06.jpg",
+        "key": "mvideo/sku00259/SKU00259-Белый-hi/06.jpg"
+      },
+      {
+        "idx": 7,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Белый-hi/07.jpg",
+        "key": "mvideo/sku00259/SKU00259-Белый-hi/07.jpg"
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-оранжевый-hello",
+    "sku_id": 2714755370,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-оранжевый-hello/01.jpg",
+        "key": "mvideo/sku00259/SKU00259-оранжевый-hello/01.jpg"
+      },
+      {
+        "idx": 2,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-оранжевый-hello/02.jpg",
+        "key": "mvideo/sku00259/SKU00259-оранжевый-hello/02.jpg"
+      },
+      {
+        "idx": 3,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-оранжевый-hello/03.jpg",
+        "key": "mvideo/sku00259/SKU00259-оранжевый-hello/03.jpg"
+      },
+      {
+        "idx": 4,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-оранжевый-hello/04.jpg",
+        "key": "mvideo/sku00259/SKU00259-оранжевый-hello/04.jpg"
+      },
+      {
+        "idx": 5,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-оранжевый-hello/05.jpg",
+        "key": "mvideo/sku00259/SKU00259-оранжевый-hello/05.jpg"
+      },
+      {
+        "idx": 6,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-оранжевый-hello/06.jpg",
+        "key": "mvideo/sku00259/SKU00259-оранжевый-hello/06.jpg"
+      },
+      {
+        "idx": 7,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-оранжевый-hello/07.jpg",
+        "key": "mvideo/sku00259/SKU00259-оранжевый-hello/07.jpg"
+      },
+      {
+        "idx": 8,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-оранжевый-hello/08.jpg",
+        "key": "mvideo/sku00259/SKU00259-оранжевый-hello/08.jpg"
+      }
+    ]
+  },
+  {
+    "offer_id": "SKU00259-Зелёный-hello",
+    "sku_id": 2714755410,
+    "price": "119.90",
+    "old_price": "199.00",
+    "currency": "CNY",
+    "images": [
+      {
+        "idx": 1,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Зелёный-hello/01.jpg",
+        "key": "mvideo/sku00259/SKU00259-Зелёный-hello/01.jpg"
+      },
+      {
+        "idx": 2,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Зелёный-hello/02.jpg",
+        "key": "mvideo/sku00259/SKU00259-Зелёный-hello/02.jpg"
+      },
+      {
+        "idx": 3,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Зелёный-hello/03.jpg",
+        "key": "mvideo/sku00259/SKU00259-Зелёный-hello/03.jpg"
+      },
+      {
+        "idx": 4,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Зелёный-hello/04.jpg",
+        "key": "mvideo/sku00259/SKU00259-Зелёный-hello/04.jpg"
+      },
+      {
+        "idx": 5,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Зелёный-hello/05.jpg",
+        "key": "mvideo/sku00259/SKU00259-Зелёный-hello/05.jpg"
+      },
+      {
+        "idx": 6,
+        "url": "https://ozonshanghai.oss-cn-shanghai.aliyuncs.com/mvideo/sku00259/SKU00259-Зелёный-hello/06.jpg",
+        "key": "mvideo/sku00259/SKU00259-Зелёный-hello/06.jpg"
+      }
+    ]
+  }
+]

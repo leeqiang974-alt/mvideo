@@ -1,0 +1,4176 @@
+{
+  "token_ok": true,
+  "totalElements": 210,
+  "pages": 3,
+  "by_status": {
+    "SUCCEEDED": 165,
+    "SUCCEEDED_PARTIALLY": 22,
+    "FAILED": 3,
+    "FAILED_AUTO": 20
+  },
+  "code_count": {
+    "ERROR_PHOTO_IN_DRAFT": 32,
+    "ERROR_PHOTO_PROCESSING_IN_DRAFT": 2,
+    "EMPTY_ERROR_VALUE_ATTRIBUTE": 9,
+    "INVALID_PHOTO_ASPECT_RATIO": 106,
+    "MISSING_MAIN_PHOTO": 86,
+    "ILLEGAL_PHOTO_ORDER": 73,
+    "INVALID_PHOTO_URL": 56,
+    "ERROR_SIZE_LENGTH_MATERIAL_DESCRIPTION": 4
+  },
+  "files": [
+    {
+      "f": "ru_1790095229_000_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T19:41:11.848Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790095044_000_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T19:38:06.253Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790094884_000_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T19:35:26.142Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790094720_000_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T19:33:11.834Z",
+      "nerr": 2
+    },
+    {
+      "f": "ru_1790094309_001_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T19:25:47.303Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790081707_060_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T16:30:58.338Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790081707_060_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T15:56:28.044Z",
+      "nerr": 2
+    },
+    {
+      "f": "ru_1790081302_059_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T15:49:34.347Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790080901_058_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T15:43:16.34Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790080489_057_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T15:36:05.048Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790080045_056_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T15:28:30.905Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790079590_055_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T15:21:57.462Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790079197_054_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T15:14:21.38Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790078684_053_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T15:05:27.483Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790078058_052_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T14:59:35.655Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790077227_051_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T14:54:05.335Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790077227_051_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T14:41:25.894Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790076896_050_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T14:36:37.778Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790076405_049_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T14:27:37.235Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790075890_048_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T14:19:07.357Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790075202_047_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T14:13:06.738Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790074282_046_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T14:06:31.285Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790074282_046_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T13:52:15.428Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790073649_045_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T13:45:40.171Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790072901_044_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T13:40:37.111Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790072901_044_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T13:29:13.519Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790072526_043_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T13:23:05.083Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790072083_042_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T13:15:35.922Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790071720_041_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T13:09:26.717Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790071319_040_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T13:02:59.453Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790070977_039_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T12:57:08.328Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790070632_038_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T12:51:25.209Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790070025_037_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T12:45:29.102Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790068158_036_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T12:10:09.95Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790067764_035_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T12:03:36.832Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790067161_034_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T11:53:40.927Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790066735_033_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T11:46:51.504Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790066403_032_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T11:40:45.317Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790065917_031_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T11:32:38.496Z",
+      "nerr": 3
+    },
+    {
+      "f": "ru_1790065515_030_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T11:26:21.025Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790065135_029_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T11:19:36.328Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790064791_028_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T11:13:52.814Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790064454_027_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T11:08:23.756Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790064094_026_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T11:02:25.776Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790063733_025_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:56:20.238Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790063371_024_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:50:14.536Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790063004_023_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:44:11.198Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790062592_022_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:37:24.574Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790062249_021_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:31:37.623Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790061853_020_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:24:56.786Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790061460_019_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:18:35.89Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790061171_018_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:13:50.553Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790060841_017_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:08:06.771Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790060482_016_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T10:02:04.716Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790060176_015_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T09:57:50.112Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790059931_014_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T09:52:51.813Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790059445_012_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T09:44:44.778Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790059044_011_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T09:38:09.323Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790058638_010_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T09:31:22.471Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790058247_009_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T09:24:44.102Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790057820_008_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T09:17:45.25Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790057420_007_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T09:10:58.703Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790057008_006_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T09:04:08.702Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790056611_005_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T08:57:46.96Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790056196_004_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T08:50:42.125Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790055805_003_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T08:44:07.611Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790055399_002_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T08:37:23.936Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790055057_001_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T08:31:36.795Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790054559_000_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T08:25:40.671Z",
+      "nerr": 1
+    },
+    {
+      "f": "ru_1790053700_001_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T08:19:55.82Z",
+      "nerr": 1
+    },
+    {
+      "f": "ru_1790053700_001_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T08:09:01.25Z",
+      "nerr": 1
+    },
+    {
+      "f": "ru_1790053369_000_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T08:03:19.45Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790051342_002_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T07:29:40.392Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790051010_001_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T07:24:06.827Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790049648_000_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T07:17:53.645Z",
+      "nerr": 0
+    },
+    {
+      "f": "ru_1790042491_000_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T05:02:19.264Z",
+      "nerr": 0
+    },
+    {
+      "f": "_batch30_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T04:42:11.626Z",
+      "nerr": 0
+    },
+    {
+      "f": "_draft_test_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T04:31:12.824Z",
+      "nerr": 0
+    },
+    {
+      "f": "_test_oss.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-22T04:24:25.951Z",
+      "nerr": 0
+    },
+    {
+      "f": "_test_ru_clean.xlsx",
+      "s": "FAILED",
+      "created": "2026-09-22T04:20:14.144Z",
+      "nerr": 15
+    },
+    {
+      "f": "auto_1790039598_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T04:14:33.65Z",
+      "nerr": 2
+    },
+    {
+      "f": "auto_1790038812_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-22T04:01:21.368Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1790038422_clean.xlsx",
+      "s": "FAILED",
+      "created": "2026-09-22T03:54:54.117Z",
+      "nerr": 25
+    },
+    {
+      "f": "auto_1790037630_clean.xlsx",
+      "s": "FAILED",
+      "created": "2026-09-22T03:41:47.749Z",
+      "nerr": 14
+    },
+    {
+      "f": "auto_1790037176_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-22T03:34:21.8Z",
+      "nerr": 20
+    },
+    {
+      "f": "auto_1790036383_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-22T03:21:00.218Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1790035969_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-22T03:14:15.766Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1790000981_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T17:36:57.555Z",
+      "nerr": 1
+    },
+    {
+      "f": "auto_1789999975_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T17:18:52.728Z",
+      "nerr": 3
+    },
+    {
+      "f": "auto_1789999243_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T17:07:35.912Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789998438_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T16:55:19.234Z",
+      "nerr": 26
+    },
+    {
+      "f": "auto_1789997508_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T16:41:04.656Z",
+      "nerr": 22
+    },
+    {
+      "f": "auto_1789996330_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T16:20:51.006Z",
+      "nerr": 5
+    },
+    {
+      "f": "auto_1789995295_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T16:01:21.953Z",
+      "nerr": 1
+    },
+    {
+      "f": "auto_1789994549_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T15:49:29.884Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789990266_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T14:34:00.373Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789989105_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T14:16:13.552Z",
+      "nerr": 3
+    },
+    {
+      "f": "auto_1789988275_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T14:00:54.705Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789983700_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T12:45:26.793Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789983161_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T12:35:54.672Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789981549_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T12:09:30.896Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789980972_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T12:00:02.084Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789980368_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T11:49:57.992Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789979806_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T11:40:27.702Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789977913_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T11:08:52.558Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789977353_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T10:59:54.553Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789976839_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T10:50:35.347Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789976283_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T10:42:01.839Z",
+      "nerr": 11
+    },
+    {
+      "f": "auto_1789974059_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T10:06:04.256Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789971956_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T09:32:57.1Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789971299_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T09:20:05.52Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789970692_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T09:08:47.581Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789970038_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T08:59:25.758Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789969418_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T08:48:21.959Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789968738_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T08:38:05.34Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789967975_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T08:26:59.05Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789967345_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T08:14:19.007Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789966717_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T08:03:44.558Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789966117_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T07:53:21.475Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789965462_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T07:43:21.188Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789964825_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T07:31:57.388Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789964129_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T07:21:36.565Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789963508_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T07:10:05.508Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789962835_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T06:59:42.152Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789962232_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T06:48:37.661Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789961835_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T06:43:05.288Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789957949_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T05:37:18.22Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789957430_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T05:27:11.777Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789956942_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T05:18:29.907Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789956219_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T05:10:29.431Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789955773_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T04:58:26.311Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789954926_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T04:49:23.969Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789952373_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T04:02:00.466Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789951870_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T03:54:21.601Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789951355_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T03:45:44.967Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789940574_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T00:45:42.718Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789940073_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T00:37:36.966Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789939579_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T00:29:22.195Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789939070_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T00:21:07.482Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789938540_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T00:12:05.6Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789938008_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-21T00:03:20.88Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789937456_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T23:54:23.731Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789936971_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T23:45:22.18Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789936435_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-20T23:37:06.538Z",
+      "nerr": 3
+    },
+    {
+      "f": "auto_1789935880_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T23:28:24.476Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789935342_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T23:19:28.359Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789934784_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T23:10:14.557Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789934255_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T23:01:12.883Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789933756_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T22:52:23.248Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789933265_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-20T22:44:04.747Z",
+      "nerr": 2
+    },
+    {
+      "f": "auto_1789932786_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T22:35:53.422Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789932296_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T22:27:54.254Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789931838_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T22:19:43.954Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789931331_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T22:11:44.975Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789930811_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T22:03:35.113Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789930239_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T21:54:59.651Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789927161_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T21:02:31.913Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789926579_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T20:52:31.489Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789925990_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T20:43:04.519Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789923893_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T20:07:14.421Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789921681_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T19:31:41.813Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789919593_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T18:57:34.734Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_test_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T18:07:33.187Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_brooch_v1test_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T17:42:41.302Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789896762_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T12:37:00.3Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789896690_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T12:35:18.077Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789896025_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T12:25:23.486Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789895353_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T12:13:30.886Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789894874_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T12:05:55.219Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789894449_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T11:57:48.371Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789894242_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T11:54:27.024Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789893641_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T11:44:50.572Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789892771_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T11:37:22.894Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789892198_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T11:20:51.033Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789891473_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T11:09:52.055Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789891216_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T11:04:44.208Z",
+      "nerr": 0
+    },
+    {
+      "f": "auto_1789890791_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T10:58:30.263Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_brooch_v5test_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T10:42:22.726Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_brooch_v5test_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T03:17:52.291Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_brooch_v4test_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-20T03:13:40.714Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_brooch_v3test_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T11:45:34.817Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_brooch_v2test_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T10:14:36.025Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_brooch_v1test_clean.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T07:53:11.954Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_hat_b2_v2.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T05:34:09.531Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_container_b2.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T05:30:24.445Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_suitcase_b2.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T05:29:50.719Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_hat_b2.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-19T05:29:24.185Z",
+      "nerr": 1
+    },
+    {
+      "f": "mv_upload_brooch_b2_v2.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T05:20:34.312Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_hat_b1_v3.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T05:17:13.676Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_scrunchie_b1_v3.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T05:16:39.377Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_hat_b1_v2.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-19T05:09:03.312Z",
+      "nerr": 1
+    },
+    {
+      "f": "mv_upload_suitcase_b1_v2.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T05:08:32.997Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_container_b1_v2.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T05:08:04.857Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_scrunchie_b1_v2.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-19T05:05:03.053Z",
+      "nerr": 1
+    },
+    {
+      "f": "mv_upload_brooch_b3_v2.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-19T04:50:40.3Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_brooch_b3_fix.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-18T17:57:59.379Z",
+      "nerr": 25
+    },
+    {
+      "f": "mv_upload_kaleidoscope_b1.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-18T16:20:32.54Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_container_b1.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-18T16:19:58.94Z",
+      "nerr": 16
+    },
+    {
+      "f": "mv_upload_suitcase_b1.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T16:11:35.885Z",
+      "nerr": 1
+    },
+    {
+      "f": "mv_upload_hat_b1.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T16:10:58.257Z",
+      "nerr": 3
+    },
+    {
+      "f": "mv_upload_carpet_b1.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-18T16:10:17.402Z",
+      "nerr": 0
+    },
+    {
+      "f": "mv_upload_scrunchie_b1.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T16:09:32.157Z",
+      "nerr": 1
+    },
+    {
+      "f": "mv_upload_brooch_b3.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-18T15:40:24.734Z",
+      "nerr": 8
+    },
+    {
+      "f": "mv_upload_brooch_b2.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T14:40:44.86Z",
+      "nerr": 1
+    },
+    {
+      "f": "mv_upload_brooch_pilot.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-18T14:05:39.036Z",
+      "nerr": 0
+    },
+    {
+      "f": "out_dispenser_sellersku0002.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-18T11:28:26.745Z",
+      "nerr": 0
+    },
+    {
+      "f": "out_ozon2mv.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-18T10:05:46.142Z",
+      "nerr": 0
+    },
+    {
+      "f": "out_ozon2mv.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-18T09:55:42.744Z",
+      "nerr": 0
+    },
+    {
+      "f": "out_ozon2mv.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T09:33:08.267Z",
+      "nerr": 4
+    },
+    {
+      "f": "mvideo_template_filled.xlsx",
+      "s": "SUCCEEDED",
+      "created": "2026-09-18T05:41:48.258Z",
+      "nerr": 0
+    }
+  ],
+  "non_succeeded": [
+    {
+      "f": "ru_1790094720_000_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T19:33:11.834Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": "403206125",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 6,
+          "mat": "403206126",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "ru_1790081707_060_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T15:56:28.044Z",
+      "errors": [
+        {
+          "row": 16,
+          "mat": "403205234",
+          "col": "Фотография",
+          "err": "Произошла техническая ошибка при загрузке фотографий. Пожалуйста, загрузите фотографии вручную в карточке товара.",
+          "code": "ERROR_PHOTO_PROCESSING_IN_DRAFT"
+        },
+        {
+          "row": 19,
+          "mat": "403205235",
+          "col": "Фотография",
+          "err": "Произошла техническая ошибка при загрузке фотографий. Пожалуйста, загрузите фотографии вручную в карточке товара.",
+          "code": "ERROR_PHOTO_PROCESSING_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "ru_1790065917_031_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T11:32:38.496Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": "403199042",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 17,
+          "mat": "403199043",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 41,
+          "mat": "403199044",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "ru_1790054559_000_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T08:25:40.671Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": "403197341",
+          "col": "Маркетинговое описание товара",
+          "err": "Значение атрибута пустое или заполнено с ошибкой. Необходимо заполнить вручную в карточке товара",
+          "code": "EMPTY_ERROR_VALUE_ATTRIBUTE"
+        }
+      ]
+    },
+    {
+      "f": "ru_1790053700_001_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T08:19:55.82Z",
+      "errors": [
+        {
+          "row": 44,
+          "mat": "403197291",
+          "col": "Маркетинговое описание товара",
+          "err": "Значение атрибута пустое или заполнено с ошибкой. Необходимо заполнить вручную в карточке товара",
+          "code": "EMPTY_ERROR_VALUE_ATTRIBUTE"
+        }
+      ]
+    },
+    {
+      "f": "ru_1790053700_001_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T08:09:01.25Z",
+      "errors": [
+        {
+          "row": 44,
+          "mat": "403197240",
+          "col": "Маркетинговое описание товара",
+          "err": "Значение атрибута пустое или заполнено с ошибкой. Необходимо заполнить вручную в карточке товара",
+          "code": "EMPTY_ERROR_VALUE_ATTRIBUTE"
+        }
+      ]
+    },
+    {
+      "f": "_test_ru_clean.xlsx",
+      "s": "FAILED",
+      "created": "2026-09-22T04:20:14.144Z",
+      "errors": [
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1790039598_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-22T04:14:33.65Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": "403196944",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 6,
+          "mat": "403196945",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "auto_1790038812_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-22T04:01:21.368Z",
+      "errors": [
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 17,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1790038422_clean.xlsx",
+      "s": "FAILED",
+      "created": "2026-09-22T03:54:54.117Z",
+      "errors": [
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1790037630_clean.xlsx",
+      "s": "FAILED",
+      "created": "2026-09-22T03:41:47.749Z",
+      "errors": [
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1790037176_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-22T03:34:21.8Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 13,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 13,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1790036383_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-22T03:21:00.218Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 13,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 13,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1790035969_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-22T03:14:15.766Z",
+      "errors": [
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 13,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 13,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 17,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1790000981_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T17:36:57.555Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": "403195769",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789999975_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T17:18:52.728Z",
+      "errors": [
+        {
+          "row": 6,
+          "mat": "403195707",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 7,
+          "mat": "403195708",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 5,
+          "mat": "403195709",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789999243_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T17:07:35.912Z",
+      "errors": [
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 13,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789998438_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T16:55:19.234Z",
+      "errors": [
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789997508_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T16:41:04.656Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 17,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 17,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 18,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 17,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 17,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        },
+        {
+          "row": 17,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Неподходящий формат изображения. Загрузите фото вертикальной ориентации (примерно 3:4). Слишком широкие или слишком вытянутые изображения не поддерживаются.",
+          "code": "INVALID_PHOTO_ASPECT_RATIO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789996330_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T16:20:51.006Z",
+      "errors": [
+        {
+          "row": 8,
+          "mat": "403195638",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 9,
+          "mat": "403195639",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 10,
+          "mat": "403195640",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 11,
+          "mat": "403195641",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 12,
+          "mat": "403195642",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789995295_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T16:01:21.953Z",
+      "errors": [
+        {
+          "row": 7,
+          "mat": "403195531",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789989105_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-21T14:16:13.552Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": "403193741",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 11,
+          "mat": "403193742",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 12,
+          "mat": "403193743",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789983700_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T12:45:26.793Z",
+      "errors": [
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789983161_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T12:35:54.672Z",
+      "errors": [
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 41,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 41,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 42,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 42,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 53,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 53,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 54,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789981549_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T12:09:30.896Z",
+      "errors": [
+        {
+          "row": 28,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 33,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 28,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 32,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 32,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 33,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 39,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 39,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 40,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 40,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 105,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789980972_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T12:00:02.084Z",
+      "errors": [
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 13,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 13,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789980368_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T11:49:57.992Z",
+      "errors": [
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 26,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 26,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 27,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 27,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 29,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789979806_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T11:40:27.702Z",
+      "errors": [
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 59,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 7,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 37,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 37,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 59,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 90,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789977913_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T11:08:52.558Z",
+      "errors": [
+        {
+          "row": 63,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 21,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 21,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 63,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 64,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 64,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 65,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789977353_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T10:59:54.553Z",
+      "errors": [
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789976839_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T10:50:35.347Z",
+      "errors": [
+        {
+          "row": 22,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 21,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 21,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 22,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 24,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 24,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 50,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 50,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 51,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 51,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 52,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789976283_clean.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-21T10:42:01.839Z",
+      "errors": [
+        {
+          "row": 27,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 26,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 26,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 27,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 28,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        },
+        {
+          "row": 28,
+          "mat": null,
+          "col": "Фотография",
+          "err": "Фотографии должны быть заполнены в последовательном диапазоне от 1-го до 14-й",
+          "code": "ILLEGAL_PHOTO_ORDER"
+        },
+        {
+          "row": 29,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Отсутствует главное фото",
+          "code": "MISSING_MAIN_PHOTO"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789936435_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-20T23:37:06.538Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": "403186966",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 29,
+          "mat": "403186967",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 30,
+          "mat": "403186968",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "auto_1789933265_clean.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-20T22:44:04.747Z",
+      "errors": [
+        {
+          "row": 20,
+          "mat": "403186751",
+          "col": "Маркетинговое описание товара",
+          "err": "Значение атрибута пустое или заполнено с ошибкой. Необходимо заполнить вручную в карточке товара",
+          "code": "EMPTY_ERROR_VALUE_ATTRIBUTE"
+        },
+        {
+          "row": 21,
+          "mat": "403186752",
+          "col": "Маркетинговое описание товара",
+          "err": "Значение атрибута пустое или заполнено с ошибкой. Необходимо заполнить вручную в карточке товара",
+          "code": "EMPTY_ERROR_VALUE_ATTRIBUTE"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_hat_b2.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-19T05:29:24.185Z",
+      "errors": [
+        {
+          "row": 23,
+          "mat": "403168694",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_hat_b1_v2.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-19T05:09:03.312Z",
+      "errors": [
+        {
+          "row": 18,
+          "mat": "403168621",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_scrunchie_b1_v2.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-19T05:05:03.053Z",
+      "errors": [
+        {
+          "row": 17,
+          "mat": "403168576",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_brooch_b3_fix.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-18T17:57:59.379Z",
+      "errors": [
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 16,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 19,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 11,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 15,
+          "mat": null,
+          "col": "Фотография 4",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_container_b1.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-18T16:19:58.94Z",
+      "errors": [
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 14,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 10,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 12,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 6,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 5,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 9,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_suitcase_b1.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T16:11:35.885Z",
+      "errors": [
+        {
+          "row": 10,
+          "mat": "403164810",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_hat_b1.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T16:10:58.257Z",
+      "errors": [
+        {
+          "row": 18,
+          "mat": "403164777",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 8,
+          "mat": "403164779",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        },
+        {
+          "row": 10,
+          "mat": "403164782",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_scrunchie_b1.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T16:09:32.157Z",
+      "errors": [
+        {
+          "row": 17,
+          "mat": "403164762",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_brooch_b3.xlsx",
+      "s": "FAILED_AUTO",
+      "created": "2026-09-18T15:40:24.734Z",
+      "errors": [
+        {
+          "row": 31,
+          "mat": null,
+          "col": "Маркетинговое описание товара",
+          "err": "Длина маркетингового описания превышает 1600 символов.",
+          "code": "ERROR_SIZE_LENGTH_MATERIAL_DESCRIPTION"
+        },
+        {
+          "row": 32,
+          "mat": null,
+          "col": "Маркетинговое описание товара",
+          "err": "Длина маркетингового описания превышает 1600 символов.",
+          "code": "ERROR_SIZE_LENGTH_MATERIAL_DESCRIPTION"
+        },
+        {
+          "row": 33,
+          "mat": null,
+          "col": "Маркетинговое описание товара",
+          "err": "Длина маркетингового описания превышает 1600 символов.",
+          "code": "ERROR_SIZE_LENGTH_MATERIAL_DESCRIPTION"
+        },
+        {
+          "row": 34,
+          "mat": null,
+          "col": "Маркетинговое описание товара",
+          "err": "Длина маркетингового описания превышает 1600 символов.",
+          "code": "ERROR_SIZE_LENGTH_MATERIAL_DESCRIPTION"
+        },
+        {
+          "row": 19,
+          "mat": null,
+          "col": "Фотография 1",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 19,
+          "mat": null,
+          "col": "Главная фотография",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 19,
+          "mat": null,
+          "col": "Фотография 2",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        },
+        {
+          "row": 8,
+          "mat": null,
+          "col": "Фотография 3",
+          "err": "Некорректная ссылка на фотографию",
+          "code": "INVALID_PHOTO_URL"
+        }
+      ]
+    },
+    {
+      "f": "mv_upload_brooch_b2.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T14:40:44.86Z",
+      "errors": [
+        {
+          "row": 12,
+          "mat": "403162580",
+          "col": "Фотография",
+          "err": "Ошибка в фотографиях. Необходимо заполнить вручную в карточке товара.",
+          "code": "ERROR_PHOTO_IN_DRAFT"
+        }
+      ]
+    },
+    {
+      "f": "out_ozon2mv.xlsx",
+      "s": "SUCCEEDED_PARTIALLY",
+      "created": "2026-09-18T09:33:08.267Z",
+      "errors": [
+        {
+          "row": 5,
+          "mat": "403159421",
+          "col": "Ширина товарной упаковки, см",
+          "err": "Значение атрибута пустое или заполнено с ошибкой. Необходимо заполнить вручную в карточке товара",
+          "code": "EMPTY_ERROR_VALUE_ATTRIBUTE"
+        },
+        {
+          "row": 5,
+          "mat": "403159421",
+          "col": "Вес товара с упаковкой, кг",
+          "err": "Значение атрибута пустое или заполнено с ошибкой. Необходимо заполнить вручную в карточке товара",
+          "code": "EMPTY_ERROR_VALUE_ATTRIBUTE"
+        },
+        {
+          "row": 5,
+          "mat": "403159421",
+          "col": "Высота товарной упаковки, см",
+          "err": "Значение атрибута пустое или заполнено с ошибкой. Необходимо заполнить вручную в карточке товара",
+          "code": "EMPTY_ERROR_VALUE_ATTRIBUTE"
+        },
+        {
+          "row": 5,
+          "mat": "403159421",
+          "col": "Длина товарной упаковки, см",
+          "err": "Значение атрибута пустое или заполнено с ошибкой. Необходимо заполнить вручную в карточке товара",
+          "code": "EMPTY_ERROR_VALUE_ATTRIBUTE"
+        }
+      ]
+    }
+  ]
+}

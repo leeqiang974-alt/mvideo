@@ -1,0 +1,156 @@
+{
+ "rebuildable": [
+  {
+   "offer_id": "SKU01306-Логотип «Джurrassic Park INGEN»",
+   "cat": "blocked_progress",
+   "src": "ELIGIBLE",
+   "ozon_id": 3059499948
+  },
+  {
+   "offer_id": "SKU01295-Игровой автомат «Тетрис»",
+   "cat": "blocked_progress",
+   "src": "ELIGIBLE",
+   "ozon_id": 3135575252
+  },
+  {
+   "offer_id": "OZ5D6FD9F906",
+   "cat": "blocked_draft_pid:403186751",
+   "src": "ELIGIBLE",
+   "ozon_id": 6143020079
+  },
+  {
+   "offer_id": "OZC2B5F277E0",
+   "cat": "blocked_draft_pid:403186752",
+   "src": "ELIGIBLE",
+   "ozon_id": 6143020115
+  },
+  {
+   "offer_id": "OZE8EEB5FDEF",
+   "cat": "blocked_draft_pid:403186966",
+   "src": "ELIGIBLE",
+   "ozon_id": 6179934015
+  },
+  {
+   "offer_id": "OZA2A74C7CAA",
+   "cat": "blocked_draft_pid:403186967",
+   "src": "ELIGIBLE",
+   "ozon_id": 6180061187
+  },
+  {
+   "offer_id": "OZ1508EB527A",
+   "cat": "blocked_draft_pid:403186968",
+   "src": "ELIGIBLE",
+   "ozon_id": 6180061201
+  },
+  {
+   "offer_id": "OZA77B40C882",
+   "cat": "blocked_draft_pid:403193741",
+   "src": "ELIGIBLE",
+   "ozon_id": 6415326685
+  },
+  {
+   "offer_id": "OZ8FC104ADF9",
+   "cat": "blocked_draft_pid:403193742",
+   "src": "ELIGIBLE",
+   "ozon_id": 6415404913
+  },
+  {
+   "offer_id": "OZ376B8F1E81",
+   "cat": "blocked_draft_pid:403193743",
+   "src": "ELIGIBLE",
+   "ozon_id": 6415404991
+  },
+  {
+   "offer_id": "OZ6CE61471C9",
+   "cat": "blocked_draft_pid:403195531",
+   "src": "ELIGIBLE",
+   "ozon_id": 6416085959
+  },
+  {
+   "offer_id": "OZE635829343",
+   "cat": "blocked_draft_pid:403195709",
+   "src": "ELIGIBLE",
+   "ozon_id": 6416708342
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "blocked_draft_pid:403206158",
+   "src": "ELIGIBLE",
+   "ozon_id": 6183473451
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "blocked_draft_pid:403206158",
+   "src": "ELIGIBLE",
+   "ozon_id": 6183473451
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "blocked_draft_pid:403206158",
+   "src": "ELIGIBLE",
+   "ozon_id": 6183473451
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "blocked_draft_pid:403206158",
+   "src": "ELIGIBLE",
+   "ozon_id": 6183473451
+  }
+ ],
+ "hardgap": [
+  {
+   "offer_id": "OZ26B1FB884C",
+   "cat": "blocked_draft_pid:403195638",
+   "src": "noimg",
+   "ozon_id": 6416263758
+  },
+  {
+   "offer_id": "OZB8A8D677AC",
+   "cat": "blocked_draft_pid:403195639",
+   "src": "noimg",
+   "ozon_id": 6416263776
+  },
+  {
+   "offer_id": "OZB75A4E09CB",
+   "cat": "blocked_draft_pid:403195640",
+   "src": "noimg",
+   "ozon_id": 6416263782
+  },
+  {
+   "offer_id": "OZ0BFEBADF40",
+   "cat": "blocked_draft_pid:403195641",
+   "src": "noimg",
+   "ozon_id": 6416263794
+  },
+  {
+   "offer_id": "OZ5BAA8F198F",
+   "cat": "blocked_draft_pid:403195642",
+   "src": "noimg",
+   "ozon_id": 6416263984
+  },
+  {
+   "offer_id": "OZ586DF0B256",
+   "cat": "blocked_draft_pid:403195707",
+   "src": "noimg",
+   "ozon_id": 6416717583
+  },
+  {
+   "offer_id": "OZBF4B74AEB1",
+   "cat": "blocked_draft_pid:403195708",
+   "src": "noimg",
+   "ozon_id": 6416743222
+  },
+  {
+   "offer_id": "OZA1A421C621",
+   "cat": "blocked_draft_pid:403196944",
+   "src": "noimg",
+   "ozon_id": 6418734800
+  },
+  {
+   "offer_id": "OZD6500FC3B3",
+   "cat": "blocked_draft_pid:403196945",
+   "src": "noimg",
+   "ozon_id": 6418734955
+  }
+ ]
+}

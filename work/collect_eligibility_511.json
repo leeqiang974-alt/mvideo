@@ -1,0 +1,1562 @@
+{
+ "buckets": {
+  "skip_noimg": 349,
+  "skip_1688": 12,
+  "skip_nodata": 2,
+  "blocked_draft_pid": 25
+ },
+ "detail": [
+  {
+   "offer_id": "OZD999C1077E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZBC076DF5CE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZFDC41BC6D1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF0F01580AE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ696065352F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ94A1896E83",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ388F45751C",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ17DB9E1EFA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE59F26E0E4",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDD7D6E5429",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ33D4CE530E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ605DF5B87C",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ21B034D541",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ0FA8A55A40",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ49F21876C2",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3F0C69FBFB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3AACF3F7AB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ7C8135BD47",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDDBA99FE60",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ140FF1246D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2BDF1715EB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA9E31D4568",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZCC50675CD4",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ577C813AE7",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ99490E6773",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA05D24D7D7",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ50047B17C1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA5C09B59D0",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ1E4C333F49",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "sku10099-save",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "sku10099-Топор Роуз",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "sku10099-Дракон",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "sku10099-Замок",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "sku10099-Любовь",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "sku10099-Излучение",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "SKU01229-торт динозавр",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "SKU01228-Карандаш Губка Боб",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "SKU01227",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "SKU01224-волшебное зеркало",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "SKU02692-XZ1806",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "SKU02692-XZ3137",
+   "cat": "skip_1688"
+  },
+  {
+   "offer_id": "KC000005-XZ6031",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF626A0A867",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5151BBC154",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4920596C44",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB3C118F5A4",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ1348D197DB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE3499509FB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3958155946",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2910CE8F70",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZFF85F7F9D1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD69C30799C",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD572E77BBB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA5048FA083",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4F43208B4D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3A59E4109C",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZCB0FB81366",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ23C863CC5F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5736D814BF",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB5037D6C47",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ220ADA52EA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ084CDE633E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6F8D1ABE64",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6C5160949E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDA61FF667D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8428391EF2",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4222434120",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ714F999FFE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ738CD238F3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ13A74E0E00",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ690CDFBE73",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ998B78F802",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5C1A34F501",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZEF3D0542EE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5FB1A8674A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ59024A4EF1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5BDE16C377",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4CDBE90F91",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA7B7BFB5CF",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZCE74D287F2",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ90B57B1D29",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ30E8291A2C",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA21C797149",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6738BC08E5",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ16443B515A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ68E056668A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ606E0E0528",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZCD22C7CD54",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC12A30763B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5F7A2F33B1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD4CBDC660D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ805845EF65",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ951672807E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4C3F5BD4EA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ752FBC517A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE54079F8D7",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ76209E68C4",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4CD9EAF7F8",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ897563F728",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ51F5216E4E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ80E953BFA4",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ1967FB1684",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA3F60F70C3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA3509205B3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ78C7A597E6",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ101BA6508F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4F86E5A4E7",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8824D80139",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3300A3EED3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ499A19B923",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA54450A59A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC83523EF3D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ301A1D6A1E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3ABE0C9924",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8CC121EF80",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ54CC83B059",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ252E8012FC",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ659AA948B7",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD6AAA59C54",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ0A52E0CF2D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ0908AA1866",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ53F4157852",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2FAE83D428",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8C30419DB1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ51D4390088",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3E1FB40D0B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3A0D6B9544",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE2501298B5",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ338098B9F1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD7C1E9B85F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ549884E189",
+   "cat": "skip_nodata"
+  },
+  {
+   "offer_id": "OZA6BD904CD5",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ1C520CB33A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ114B08A0BF",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB9355F4601",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2B333A00DD",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5FD2B06A06",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZACDBA3B99F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ09B23BDD5B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ077BB7CA01",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ9F502B022B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8DF00D0715",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ23539AF949",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ7FA93CE53D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ191778300C",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6C91BE1BF2",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDE5F356BDB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3BF28D4131",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5DB5E423C4",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE8F5FAD61D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ05BE80825F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ901D7BC9DB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2C72366618",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA2FA5E8762",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6DC70A4ABD",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC14D7E66EF",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZCA17FA76D3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5649410E80",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8711EFEE79",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC15CC12FB5",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ32484C1B73",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8F7ACE31DC",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6C69450B26",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4F969DBEA0",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ9FA76D8FC1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ57F30ACBDA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZAB65A77011",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ01937D92B1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ317A8985E3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ52B56E5E8A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ64EE0B9837",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD140AC5490",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC391CFA8A1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ35661D2A94",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4359B63B4F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3BD86D99B1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ78CA7F80D4",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ915C01F138",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ15BC8F7F12",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB172CEB997",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ1EE991C8AA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ277A43E75F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ27F818DE21",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZAFD8E4AD10",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD10B0344BF",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ9AE33DE9B7",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2C615203F1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ758886A735",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ491B143C3F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ67B7478939",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3641F47697",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4633285DE6",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA58A2C1B25",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ7A41698262",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ44E71A82CF",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ0CD8E13FA3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF79C944C7E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB6F27092A1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ722E25632E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD93EA23FEB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ30F57D27F2",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF00937C9CE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF9DAE1E3FE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA15EF2CAD3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ04687858B6",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ415634DF3A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDC79EB2B4B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE0687BB8C5",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD73D34D277",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZAED2FA3ABB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ98B50590BB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC266726895",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB8562198B7",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDE3B78760E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ40F2298F80",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDB0C3C6698",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZCF0C2E584B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZAEA068C32A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB816CD0B4A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA81C782C8E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ854F888DD2",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8A49CF1022",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6C17373BB1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ9CC4295D5E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE52805ED29",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ98D048AAF1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZBF0654943E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ9E8F7CC979",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8411F5874E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5904FFB7EB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5BC4B0B875",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ828F89F010",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3A5C83C0DC",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE8C798E22A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZEDFC457148",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZCA2AF5EA90",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ31829612C9",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ210D236B6B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ405F46B0CA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3090255928",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ22C9440809",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ46DC385995",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3E7038E243",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ70AF0E53BA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ9D82AA5740",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ280F5F202D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ7549B90234",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ7893E37DD4",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZFCCF4B808E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3DBE5BE079",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA20B552442",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZA2B9B99574",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4E3078D448",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ836990E5FE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ539DEB848F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZFD9DB5D18E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZBB76570867",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC6AC5C33E8",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ41191AD9C7",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ0E66EDF5E0",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZAADFEC4238",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5B4EB9E9CE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZCE85F07E4F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ93E8975D97",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ069855AA98",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ10714C75DC",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ284EF7BB1F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5E5680A356",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2488678BEA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD0D9BFAEC0",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZFDA39DD4C0",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZFB0EB1AE44",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD64DDD7975",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ400B863ECD",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ1EF725AF29",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ93CD399948",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC5476AB5E5",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE4B5CADE0C",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE90B3F6031",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2A89646BFD",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF477E8B7A3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ801AC3DEDD",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC8EC6C341C",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ80D9F23AED",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB192CB4497",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ93B7555EA9",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ1CA496CC37",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ458C2EB560",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4EDB5A2CD6",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ36FC890EED",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZAB01065472",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ781C9F7A27",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ10B5634CE7",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ74E8760014",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ83FD32D70B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ37402FDF2D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ7E6E8D2BF8",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6CAECCD6B8",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF9B54B3C22",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ48A3F236AC",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ7BD9B4ABA3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ0A90D2835D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZCDFBFCC428",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZFC8E0AADDA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ7EE57FE468",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB7E303B2C4",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZFC9FD899FE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZB36A4FF50A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE901239DBE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6977CA0C28",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6739B58853",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ93C90109F2",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ50867B568C",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ17FBBF1F32",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC31848B95D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5ACC74C7E6",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD70F13A518",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4A478879BF",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ564616AF40",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6CE19E494B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ917ECD5543",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ40249BEAE1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF4AFA8516F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ126BCDB5BE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ89A1D52DCF",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4B86D3891B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE64AD0D584",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8895459370",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD50CE010B3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ6D5B4147CE",
+   "cat": "skip_nodata"
+  },
+  {
+   "offer_id": "OZ61963D861F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ58FC8FD3C1",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ0A58869BDB",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZAD49A610A6",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ9573D8DB4D",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ4C0142E708",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ8422F7CA87",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC4BF008DEE",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDFF70318A8",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDB29B50F3F",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ15BB2ECA17",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ0CE0E52B63",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ7300A1AC59",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF20D099191",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2F02B19F97",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ40FCBFFBA8",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZD4B8B119C2",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ0B5B7CE1EA",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZC0F8ED3DC3",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ56FB0A62F2",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ9CA1C12384",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ461556DD62",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2A03ACDF2B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2510754A20",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5B4790E681",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZDF34EB150A",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ56B62A1457",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ5BECAF1620",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZF85FCB8F2B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ3D73CB2272",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ09710EAEC6",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZ2CB18EA71B",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "OZE3DFE4D63E",
+   "cat": "skip_noimg"
+  },
+  {
+   "offer_id": "SKU01306-Логотип «Джurrassic Park INGEN»",
+   "cat": "blocked_draft_pid:403214289"
+  },
+  {
+   "offer_id": "SKU01295-Игровой автомат «Тетрис»",
+   "cat": "blocked_draft_pid:403214290"
+  },
+  {
+   "offer_id": "OZ5D6FD9F906",
+   "cat": "blocked_draft_pid:403186751"
+  },
+  {
+   "offer_id": "OZC2B5F277E0",
+   "cat": "blocked_draft_pid:403186752"
+  },
+  {
+   "offer_id": "OZE8EEB5FDEF",
+   "cat": "blocked_draft_pid:403186966"
+  },
+  {
+   "offer_id": "OZA2A74C7CAA",
+   "cat": "blocked_draft_pid:403186967"
+  },
+  {
+   "offer_id": "OZ1508EB527A",
+   "cat": "blocked_draft_pid:403186968"
+  },
+  {
+   "offer_id": "OZA77B40C882",
+   "cat": "blocked_draft_pid:403193741"
+  },
+  {
+   "offer_id": "OZ8FC104ADF9",
+   "cat": "blocked_draft_pid:403193742"
+  },
+  {
+   "offer_id": "OZ376B8F1E81",
+   "cat": "blocked_draft_pid:403193743"
+  },
+  {
+   "offer_id": "OZ6CE61471C9",
+   "cat": "blocked_draft_pid:403195531"
+  },
+  {
+   "offer_id": "OZ26B1FB884C",
+   "cat": "blocked_draft_pid:403195638"
+  },
+  {
+   "offer_id": "OZB8A8D677AC",
+   "cat": "blocked_draft_pid:403195639"
+  },
+  {
+   "offer_id": "OZB75A4E09CB",
+   "cat": "blocked_draft_pid:403195640"
+  },
+  {
+   "offer_id": "OZ0BFEBADF40",
+   "cat": "blocked_draft_pid:403195641"
+  },
+  {
+   "offer_id": "OZ5BAA8F198F",
+   "cat": "blocked_draft_pid:403195642"
+  },
+  {
+   "offer_id": "OZE635829343",
+   "cat": "blocked_draft_pid:403195709"
+  },
+  {
+   "offer_id": "OZ586DF0B256",
+   "cat": "blocked_draft_pid:403195707"
+  },
+  {
+   "offer_id": "OZBF4B74AEB1",
+   "cat": "blocked_draft_pid:403195708"
+  },
+  {
+   "offer_id": "OZA1A421C621",
+   "cat": "blocked_draft_pid:403196944"
+  },
+  {
+   "offer_id": "OZD6500FC3B3",
+   "cat": "blocked_draft_pid:403196945"
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "blocked_draft_pid:403206158"
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "blocked_draft_pid:403206158"
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "blocked_draft_pid:403206158"
+  },
+  {
+   "offer_id": "OZ2A56C9C28A",
+   "cat": "blocked_draft_pid:403206158"
+  }
+ ]
+}

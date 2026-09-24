@@ -1,0 +1,18 @@
+ITEMS: 1
+  product_id: 1237743084 offer_id: sellersku0002
+  === attributes for sellersku0002 ===
+   id=None name=None = ['Нет бренда']
+   id=None name=None = ['000001_sellersku0002']
+   id=None name=None = ['Бренд: Другое <br>Материал: Силикон <br>Артикул: TQBSM1 <br>Спецификация: коробка из 288 штук <br>Модель: TQBSM1 <br>Печать ЛОГОТИПА: Нет <br>Настройка обработки: Нет <br>Масса нетто: 150 г <br>Подходит для ширины ленты (≤): 20 <br>Диаметр ленточного вала: отсутствует <br>Следует ли импортировать: нет <br>Является ли это эксклюзивным источником поставок для трансграничного экспорта: Нет <br>Применимый случай: Общего назначения']
+   id=None name=None = ['3']
+   id=None name=None = ['1']
+   id=None name=None = ['фиолетон']
+   id=None name=None = ['фиолетовый']
+   id=None name=None = ['EVA']
+   id=None name=None = ['1']
+   id=None name=None = ['1']
+   id=None name=None = ['Китай']
+   id=None name=None = ['false']
+   id=None name=None = ['Станок для резки ленты Санрио']
+   id=None name=None = ['400']
+   id=None name=None = ['sellersku0002']

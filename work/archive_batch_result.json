@@ -1,0 +1,82 @@
+[
+ {
+  "pid": "403186752",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ },
+ {
+  "pid": "403186966",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ },
+ {
+  "pid": "403186967",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ },
+ {
+  "pid": "403186968",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ },
+ {
+  "pid": "403193741",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ },
+ {
+  "pid": "403193742",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ },
+ {
+  "pid": "403193743",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ },
+ {
+  "pid": "403195531",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ },
+ {
+  "pid": "403195709",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ },
+ {
+  "pid": "403206158",
+  "before": "row",
+  "archive": "ok",
+  "dialog": "no-dialog",
+  "after": "empty",
+  "result": "ARCHIVED"
+ }
+]

@@ -1,0 +1,25 @@
+{
+  "ozon_description_category_id": 17027899,
+  "ozon_hint": "Ozon description_category_id 是首饰大类，胸针/袖扣共用，库存清单统计为 ~8800 SKU",
+  "mvideo_categories": {
+    "cufflinks": {
+      "groupId": "594040901",
+      "infoModelNumber": 305292,
+      "infomodel": "INF-305292",
+      "name": "Запонки",
+      "path": "Одежда > Бижутерия > Запонки",
+      "parentGroup": "5940401",
+      "deliverySchemes": ["DBS", "FBS", "FBM"]
+    },
+    "brooch": {
+      "groupId": "594040301",
+      "infomodel": "INF-305107",
+      "name": "Брошь",
+      "path": "Одежда > Бижутерия > Брошь",
+      "note": "已跑通 pilot，勿动"
+    }
+  },
+  "verified_at": "2026-09-19",
+  "verification_source": "https://sellers.mvideo.ru/api/v2/product-groups/search?query=запонки + /api/info-models?groupCode=594040901",
+  "key_note": "category_mappings 表 ozon_category_id 有 UNIQUE 约束，17027899 已被胸针 id=3 占用。17027899 下胸针/袖扣并存，不能靠类目表一条映射定死，必须在 SKU 级按标题关键词分流：袖扣走 594040901/INF-305292，胸针走 594040301/INF-305107"
+}

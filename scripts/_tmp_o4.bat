@@ -1,0 +1,2 @@
+@echo off
+powershell -NoProfile -Command "$cid='2367028'; $key='a7e68231-c00f-467c-b5e9-8cdcf0925df5'; $p='C:\MvideoERP\.env'; $lines=[IO.File]::ReadAllLines($p,[Text.Encoding]::UTF8); for($i=0;$i -lt $lines.Count;$i++){ if($lines[$i] -match '^OZON_CLIENT_ID='){ $lines[$i]='OZON_CLIENT_ID='+$cid }; if($lines[$i] -match '^OZON_API_KEY='){ $lines[$i]='OZON_API_KEY='+$key } }; [IO.File]::WriteAllLines($p,$lines,(New-Object Text.UTF8Encoding $false)); Write-Output ('updated lines: ' + (($lines | Select-String '^OZON_').Count))"

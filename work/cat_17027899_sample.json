@@ -1,0 +1,216 @@
+{
+  "tree_has_17027899_name": null,
+  "num_tree_nodes": 26,
+  "samples": [
+    {
+      "id": 1445191378,
+      "name": "Модные серьги из сплава",
+      "offer_id": "SKU10004-серебро",
+      "type_id": 87593412,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-3/7354130295.jpg"
+    },
+    {
+      "id": 1445191385,
+      "name": "Модные серьги из сплава",
+      "offer_id": "SKU10004-золотой",
+      "type_id": 87593412,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-o/7354130316.jpg"
+    },
+    {
+      "id": 1445557109,
+      "name": "Браслет с крестом-звездой из сплава",
+      "offer_id": "SKU10005-серый-кремовый",
+      "type_id": 87593414,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-c/7354429644.jpg"
+    },
+    {
+      "id": 1445557207,
+      "name": "Браслет с крестом-звездой из сплава",
+      "offer_id": "SKU10005-серый",
+      "type_id": 87593414,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-0/7354429596.jpg"
+    },
+    {
+      "id": 1468806350,
+      "name": "Огненное сердце, подвеска на цепочке",
+      "offer_id": "SKU20009-сплошной",
+      "type_id": 971168976,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-3/7371497487.jpg"
+    },
+    {
+      "id": 1468806378,
+      "name": "Огненное сердце, подвеска на цепочке",
+      "offer_id": "SKU20009-полый",
+      "type_id": 971168976,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-3/7371497487.jpg"
+    },
+    {
+      "id": 1469040745,
+      "name": "модное кристальное ожерелье",
+      "offer_id": "SKU110010-белый кристалл",
+      "type_id": 971168976,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-s/7371564868.jpg"
+    },
+    {
+      "id": 1835501501,
+      "name": "Кафф кисточки",
+      "offer_id": "SKU00078",
+      "type_id": 87593412,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-e/7569300398.jpg"
+    },
+    {
+      "id": 2021870929,
+      "name": "Декоративный кулон, Крутая обезьяна, акриловый плоский 2D кулон, подходит для праздничного украшения, брелка, рюкзака, дома",
+      "offer_id": "SKU00100",
+      "type_id": 87458885,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-9/7211922093.jpg"
+    },
+    {
+      "id": 2321482330,
+      "name": "Брелок обвес на сумку или телефон в виде сердца",
+      "offer_id": "ozon#2120770696_красный, серебро, бургунди 2_08",
+      "type_id": 87458885,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-m/7741547446.jpg"
+    },
+    {
+      "id": 2842763591,
+      "name": "Значки и броши Луффи и Усоппа из \"One Piece\"",
+      "offer_id": "SKU00164-NR11969",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-u/8119370190.jpg"
+    },
+    {
+      "id": 2842836715,
+      "name": "Значок с изображением мультяшной собачки, брошь",
+      "offer_id": "SKU00165-NR90353",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-b/8119437527.jpg"
+    },
+    {
+      "id": 2842836952,
+      "name": "Значок с изображением мультяшной собачки, брошь",
+      "offer_id": "SKU00165-NR90352",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-o/8119437756.jpg"
+    },
+    {
+      "id": 2842874862,
+      "name": "Значки и броши \"Стальной Алхимик\" (Fullmetal Alchemist) коллекционные атрибуты фанатов",
+      "offer_id": "SKU00166-NR12677",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-j/8119477603.jpg"
+    },
+    {
+      "id": 2842874880,
+      "name": "Значки и броши \"Стальной Алхимик\" (Fullmetal Alchemist) коллекционные атрибуты фанатов",
+      "offer_id": "SKU00166-HX2663",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-h/8119477817.jpg"
+    },
+    {
+      "id": 2842874891,
+      "name": "Значки и броши \"Стальной Алхимик\" (Fullmetal Alchemist) коллекционные атрибуты фанатов",
+      "offer_id": "SKU00166-NR6353",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-y/8119477798.jpg"
+    },
+    {
+      "id": 2842961363,
+      "name": "Значки и броши с розовым пантерой (Pink Panther) милые и стильные аксессуары",
+      "offer_id": "SKU00168-NR12001",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-q/8119572398.jpg"
+    },
+    {
+      "id": 2842961436,
+      "name": "Значки и броши с розовым пантерой (Pink Panther) милые и стильные аксессуары",
+      "offer_id": "SKU00168-NR90367",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-8/8119572992.jpg"
+    },
+    {
+      "id": 2843021172,
+      "name": "Сплавные значки и броши Дэдпул и Росомаха культовые персонажи",
+      "offer_id": "SKU00169-XZ3523-2",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-v/8119651999.jpg"
+    },
+    {
+      "id": 2843021240,
+      "name": "Сплавные значки и броши Дэдпул и Росомаха культовые персонажи",
+      "offer_id": "SKU00169-XZ3523-3",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-5/8119651937.jpg"
+    },
+    {
+      "id": 2849976148,
+      "name": "Значки и броши Дзюнъити Фусигуро (Фусигуро Чууки) из Jujutsu Kaisen",
+      "offer_id": "SKU00170-NR90149",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-y/8126667466.jpg"
+    },
+    {
+      "id": 2849976178,
+      "name": "Значки и броши Дзюнъити Фусигуро (Фусигуро Чууки) из Jujutsu Kaisen",
+      "offer_id": "SKU00170-NR90150",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-0/8126668008.jpg"
+    },
+    {
+      "id": 2856281645,
+      "name": "милый значок",
+      "offer_id": "SKU00164-Курячая ножка5589",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-4/8132105020.jpg"
+    },
+    {
+      "id": 2856281647,
+      "name": "милый значок",
+      "offer_id": "SKU00164-русалка5567",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-n/8132105111.jpg"
+    },
+    {
+      "id": 2856281708,
+      "name": "милый значок",
+      "offer_id": "SKU00164-Череп6195",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-r/8132105115.jpg"
+    },
+    {
+      "id": 2856281710,
+      "name": "милый значок",
+      "offer_id": "SKU00164-Нож6155",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-2/8132105270.jpg"
+    },
+    {
+      "id": 2856281711,
+      "name": "милый значок",
+      "offer_id": "SKU00164-авокадо5565",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-6/8132105310.jpg"
+    },
+    {
+      "id": 2856281712,
+      "name": "милый значок",
+      "offer_id": "SKU00164-Нож6159",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-q/8132105042.jpg"
+    },
+    {
+      "id": 2856281725,
+      "name": "милый значок",
+      "offer_id": "SKU00164-Дом6370",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-z/8132105087.jpg"
+    },
+    {
+      "id": 2856281730,
+      "name": "милый значок",
+      "offer_id": "SKU00164-помело6197",
+      "type_id": 87458886,
+      "primary_image": "https://ir-20.ozone.ru/s3/multimedia-1-8/8132105096.jpg"
+    }
+  ]
+}
