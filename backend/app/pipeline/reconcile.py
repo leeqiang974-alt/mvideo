@@ -17,7 +17,7 @@ from collections import Counter
 
 from sqlalchemy import select
 
-from app.models import MigrationBatch, MigrationItem, ItemStatus
+from ..models import MigrationBatch, MigrationItem, ItemStatus
 
 log = logging.getLogger("mvideo.reconcile")
 

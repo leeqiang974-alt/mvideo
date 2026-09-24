@@ -28,7 +28,7 @@ from typing import Any
 
 from sqlalchemy import select
 
-from app.models import CategoryMapping
+from ..models import CategoryMapping
 
 
 def resolve_category(session, ozon_category_id: int, ozon_category_name: str = "") -> CategoryMapping | None:

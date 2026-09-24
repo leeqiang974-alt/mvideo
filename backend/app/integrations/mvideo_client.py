@@ -30,7 +30,7 @@ from typing import Any, Iterable
 
 import httpx
 
-from app.endpoints import (
+from ..endpoints import (
     AUTH_HEADER_NAME,
     AUTH_HEADER_PREFIX,
     ENDPOINTS,

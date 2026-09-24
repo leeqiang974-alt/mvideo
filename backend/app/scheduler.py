@@ -19,8 +19,8 @@ import os
 import threading
 import time
 
-from app.config import get_settings
-from app.database import SessionLocal
+from .config import get_settings
+from .database import SessionLocal
 from sqlalchemy import select  # noqa: F401  (kept for parity; not used here)
 
 log = logging.getLogger("mvideo.scheduler")
@@ -31,8 +31,8 @@ _thread: threading.Thread | None = None
 
 def _build_omni_client():
     """Lazily build an OmniClient from settings (imports avoided at load)."""
-    from app.integrations.omni_client import OmniClient
-    from app.ratelimit import RequestBudgeter
+    from .integrations.omni_client import OmniClient
+    from .ratelimit import RequestBudgeter
 
     st = get_settings()
     session = SessionLocal()
@@ -47,7 +47,7 @@ def _build_omni_client():
 
 
 def _loop_once() -> None:
-    from app.pipeline.migrate_service import apply_price_stock, poll_mappings
+    from .pipeline.migrate_service import apply_price_stock, poll_mappings
 
     st = get_settings()
     if not (st.omni_api_key or st.mvideo_api_key):

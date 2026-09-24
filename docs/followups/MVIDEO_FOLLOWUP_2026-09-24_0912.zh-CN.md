@@ -172,3 +172,101 @@ python -m pytest -q
 ### 可复制到其他对话的摘要
 
 2026-09-24 已完成 M.Video 单 SKU Ozon → M.Video 后端 dry-run：新增独立 `SingleSkuJob` / `single_sku_jobs`，没有混入批量迁移状态机；支持人工确认正 CNY 采购价和正整数库存，精确执行 `mm ÷ 10`、`g ÷ 1000`，调用定价模型生成 RUB 售价，品牌固定为 `Нет бренда` 并净化标题描述，最终生成切带机 95 列模板第 5 行。Ozon RUB 价格仅保留为证据，不会作为 CNY 成本；当前不设置上传引用、不上传。新增 7 个单测，最终完整测试 `96 passed`。dry-run 文件输出到已忽略的 `work/single_sku/`，尚未部署到笔记本生产环境。
+## 后续更新：单 SKU intake API 与包加载修复（2026-09-24 15:42 CST）
+
+### 跟进目标
+
+- 为独立的“Ozon → M.Video 单 SKU”流程补齐窄口径版本化 intake API，让外部 Ozon ERP/插件可以通过安全边界创建待人工核对任务。
+- 修复测试中 `backend.app` 与 `app` 双模块加载导致的配置缓存分裂，避免接口读取不到调用方设置的集成密钥。
+- 保持单 SKU 模型独立于现有批量迁移状态机，并继续严格限制当前阶段只创建任务、不触发定价外发或真实上传。
+
+### 变更前状态
+
+- 上一 Git 基线：`dae0a9c feat: add single-SKU M.Video dry-run workflow`。
+- 新增 intake 测试初次运行结果为 `12 failed, 1 passed`；认证失败的主要表现是接口返回 503，原因是测试清了 `backend.app.config.get_settings` 缓存，路由却加载了另一套 `app.config.get_settings`。
+- 相对导入修复后，认证问题消失，但 `TestClient` 请求线程拿不到主线程创建的内存 SQLite 表，仍有 5 个 `no such table: single_sku_jobs` 失败。
+- 当前没有真实 M.Video 上传，也没有启动或恢复批量任务。
+
+### 实际修改
+
+- 新增 `backend/app/single_sku/api.py`：
+  - 路由前缀 `/api/v1/integrations/ozon`，提供 `POST /single-sku-jobs` 和 `GET /single-sku-jobs/{job_ref}`。
+  - 仅接受契约版本 `ozon.single-sku.v1`，校验 HTTPS 货源 URL、正包装数值、1–15 张 HTTPS 图片、货源产品/SKU ID。
+  - 使用 `X-Integration-Key` 做机器间认证；服务端未配置密钥返回 503，密钥缺失或错误返回 401。
+  - 支持自然键幂等和 `idempotency_key`；同一幂等键绑定不同货源返回 409，重复货源返回同一任务和 HTTP 200。
+  - 新任务状态为 `awaiting_input`，只保存来源证据，不自动把 Ozon RUB 写成 CNY 采购成本，也不触发自动发布。
+- 修改 `backend/app/single_sku/workflow.py`，创建任务时持久化 `schema_version` 与 `idempotency_key`。
+- 修改 `backend/app/models.py`，为 `single_sku_jobs` 补充 `schema_version`、`idempotency_key` 字段，并增加数据库级自然键唯一约束 `uq_single_sku_jobs_source`，防止并发 intake 仅靠应用层查询而插入重复货源。
+- 修改 `backend/app/database.py`：`init_db()` 在补列后执行 `ensure_single_sku_jobs_indexes()`；旧库补建唯一索引前先检查重复幂等键、不完整来源身份和重复自然键，发现历史脏数据时抛出 `RuntimeError`，要求备份和人工对账，禁止静默合并。
+- 修改 `.env.example` 与 `backend/app/config.py`，新增空值模板配置 `INTEGRATION_API_KEY`；没有写入真实密钥。
+- 修改 `backend/app/main.py`，注册单 SKU intake router；startup 中先执行 `init_db()` 再启动 poller，同时把包内绝对导入改为相对导入。
+- 将 `backend/app` 内部所有包级 `from app...` 改为相对导入：顶层模块使用 `.`，`integrations`、`pipeline` 子包使用 `..`。
+- 修改 `tests/conftest.py`：内存 SQLite 增加 `poolclass=StaticPool`，保证 FastAPI `TestClient` 的请求线程与建表线程共享同一个内存数据库。
+- 新增 `tests/test_single_sku_intake_api.py`，覆盖认证、未配置密钥、创建任务、重复货源、幂等键冲突、载荷校验、任务查询、数据库自然键强制、旧库索引补建，以及重复幂等键/空白来源身份/重复自然键三类不安全历史数据阻断。
+- 更新 `AGENTS.md`，固化相对导入、跨线程内存 SQLite、集成密钥和幂等规则。
+
+### 涉及文件、服务、数据
+
+- 运行代码：`backend/app/main.py`、`backend/app/config.py`、`backend/app/currency.py`、`backend/app/database.py`、`backend/app/models.py`、`backend/app/oss_uploader.py`、`backend/app/scheduler.py`、`backend/app/single_sku/api.py`、`backend/app/single_sku/workflow.py`。
+- 集成与流水线：`backend/app/integrations/mvideo_client.py`、`backend/app/integrations/omni_client.py`、`backend/app/pipeline/mapping.py`、`backend/app/pipeline/migrate_service.py`、`backend/app/pipeline/reconcile.py`、`backend/app/pipeline/report_service.py`。
+- 测试与规则：`tests/test_single_sku_intake_api.py`、`tests/conftest.py`、`.env.example`、`AGENTS.md`、本累计报告。
+- 未重启本机或笔记本服务，未修改生产数据库、价格、库存、批量队列或密钥文件。
+- 未调用真实 M.Video 商品创建、价格、库存或上传接口；测试中的 Excel 生成本质仍为 dry-run。
+- `work/downloads/_test_oss.xlsx` 在测试后保持二进制脏状态，未查明业务来源，本次不纳入提交，避免把测试产物误作为业务变更。
+
+### 验证证据
+
+- Python 编译验证通过：
+
+```powershell
+.\.venv\Scripts\python.exe -m compileall -q backend\app
+```
+
+- intake API 专项测试最终结果：
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest tests/test_single_sku_intake_api.py -q
+```
+
+```text
+19 passed, 18 warnings in 1.61s
+```
+
+- M.Video 全量测试最终结果：
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest -q
+```
+
+```text
+115 passed, 185 warnings in 12.31s
+```
+
+- 响应体不包含 `INTEGRATION_API_KEY`；认证测试确认错误密钥和未配置密钥分别返回 401/503。
+- 新任务断言 `purchase_cost_cny is None`、`stock is None`、`cost_confirmed is False`、`stock_confirmed is False`、`dry_run_result_json == {}`、`upload_ref == ""`、`uploaded_at is None`，证明未越过人工核对和 dry-run 边界。
+- 旧库升级测试确认干净历史数据可重复执行补建并保持幂等；不安全历史数据会在创建索引前抛出 `RuntimeError`，且数据库级自然键约束会直接拒绝重复货源。
+- 独立代码审查尝试受平台错误 `MissingParameter: partial` 阻断，未能形成外部审查结论；已完成本地暂存差异审计，覆盖密钥、RUB→CNY 误用、真实上传边界和不安全历史数据迁移。
+
+### 剩余风险
+
+1. 当前仅完成后端 intake 边界和独立任务创建，人工核对采购价、尺寸、售价、库存、合规材料的界面尚未完成。
+2. 真实部署时必须由环境变量或密钥管理服务提供长随机 `INTEGRATION_API_KEY`，不得把真实共享密钥写入 `.env.example`、Git 或截图。
+3. 旧数据库需要执行补列和唯一索引补建；上线前必须备份数据库并完成历史数据对账，若迁移硬阻断，不得手工跳过或静默合并重复任务。
+4. 目前只确认切带机类目的模板与映射；其他类目仍需先完成 confirmed 映射、95 列模板、证书、TN VED、品牌授权等预检。
+5. `work/downloads/_test_oss.xlsx` 的测试后二进制差异尚未解释，后续应只读追踪生成路径，确认是否应恢复跟踪文件或调整测试夹具。
+6. 本次工作站验证尚未部署到笔记本生产环境。
+
+### 恢复/回滚方式
+
+1. 若尚未部署，只需要回滚本次 intake API 提交，代码恢复到 `dae0a9c`。
+2. 若环境已经执行补列或索引补建，回滚代码前先备份数据库；如确认没有需要保留的单 SKU 任务，可删除 `single_sku_jobs.schema_version`、`single_sku_jobs.idempotency_key` 并按数据库类型重建相关唯一索引。若仍需保留任务，已创建的唯一索引可以保留，待人工对账后再重新启动。
+3. 清空部署环境中的 `INTEGRATION_API_KEY` 会让 intake 接口返回 503，但不会影响既有批量流水线运行。
+4. 回滚后重新运行 `.\.venv\Scripts\python.exe -m pytest -q`，确认恢复到基线测试状态。
+
+### GitHub 推送状态
+
+- 截至本次功能代码提交，推送尚未发生；实际推送结果将在推送后追加到本报告，并形成后续 docs 提交。
+
+### 可复制到其他对话的摘要
+
+2026-09-24 已完成 M.Video 单 SKU Ozon → M.Video 的版本化 intake API：外部系统通过 `/api/v1/integrations/ozon/single-sku-jobs` 提交 `ozon.single-sku.v1` 载荷，并使用 `X-Integration-Key` 认证。接口支持自然键和 `idempotency_key` 幂等，重复货源返回同一任务，幂等键冲突返回 409；数据库级自然键唯一约束防止并发重复创建，旧库存在重复幂等键、空白来源身份或重复自然键时会硬阻断并要求人工对账。新任务停留在 `awaiting_input`，不会把 Ozon RUB 当 CNY 成本，也不会触发上传。已修复包内绝对导入造成的双配置缓存问题，并使用 `StaticPool` 修复 TestClient 跨线程内存 SQLite。最终专项测试 `19 passed`，全量测试 `115 passed`；当前未部署、未真实上传。

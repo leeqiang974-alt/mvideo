@@ -49,7 +49,7 @@ class OssUploader:
     # ------------------------------------------------------------------ #
     @classmethod
     def from_settings(cls) -> "OssUploader":
-        from app.config import get_settings
+        from .config import get_settings
 
         s = get_settings()
         # Explicit OSS_* env wins; otherwise fall back to the shared Aliyun

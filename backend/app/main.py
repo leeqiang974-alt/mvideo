@@ -23,10 +23,10 @@ from pydantic import BaseModel
 from sqlalchemy import inspect as sa_inspect, select
 from sqlalchemy.orm import Session
 
-from app.config import get_settings
-from app.database import get_db
-from app.models import MigrationBatch, MigrationItem
-from app.pipeline.migrate_service import (
+from .config import get_settings
+from .database import get_db, init_db
+from .models import MigrationBatch, MigrationItem
+from .pipeline.migrate_service import (
     apply_price_stock,
     build_templates,
     poll_mappings,
@@ -34,19 +34,22 @@ from app.pipeline.migrate_service import (
     run_images,
     run_prepare,
 )
-from app.pipeline.order_service import list_fbs_orders, summarize_orders
-from app.pipeline.reconcile import reconcile_batch
-from app.pipeline.report_service import batch_report
+from .pipeline.order_service import list_fbs_orders, summarize_orders
+from .pipeline.reconcile import reconcile_batch
+from .pipeline.report_service import batch_report
+from .single_sku.api import router as ozon_single_sku_router
 
 log = logging.getLogger("mvideo.api")
 
 app = FastAPI(title="MvideoERP", version="0.4")
+app.include_router(ozon_single_sku_router)
 
 
 @app.on_event("startup")
 def _startup() -> None:
+    init_db()
     try:
-        from app.scheduler import start_poller
+        from .scheduler import start_poller
 
         start_poller()
     except Exception as exc:  # noqa: BLE001 - poller is optional
@@ -106,7 +109,7 @@ def omni_health() -> dict:
         return {"ok": True, "omni_ok": None, "status": "not_configured"}
 
     try:
-        from app.integrations.omni_client import OmniClient
+        from .integrations.omni_client import OmniClient
 
         client = OmniClient(
             api_key=api_key,
@@ -167,7 +170,7 @@ def create_batch(req: CreateBatchRequest, db: Session = Depends(get_db)) -> dict
     st = get_settings()
     if not st.ozon_client_id or not st.ozon_api_key:
         raise HTTPException(400, "OZON_CLIENT_ID / OZON_API_KEY not configured")
-    from app.integrations.ozon_client import OzonSourceClient
+    from .integrations.ozon_client import OzonSourceClient
 
     ozon = OzonSourceClient(
         client_id=st.ozon_client_id,
@@ -191,8 +194,8 @@ def run_batch(batch_id: int, db: Session = Depends(get_db)) -> dict:
     if not (st.omni_api_key or st.mvideo_api_key):
         raise HTTPException(400, "OMNI_API_KEY not configured")
 
-    from app.integrations.omni_client import OmniClient
-    from app.ratelimit import RequestBudgeter
+    from .integrations.omni_client import OmniClient
+    from .ratelimit import RequestBudgeter
 
     budgeter = RequestBudgeter(db)
     omni = OmniClient(
@@ -241,7 +244,7 @@ def get_fbs_orders(limit: int = 100) -> dict:
     if not (st.omni_api_key or st.mvideo_api_key):
         return {"orders": [], "total": 0, "hint": "OMNI_API_KEY not configured"}
 
-    from app.integrations.omni_client import OmniClient
+    from .integrations.omni_client import OmniClient
 
     # Read-only call: no budgeter needed (budgeter only throttles writes).
     omni = OmniClient(

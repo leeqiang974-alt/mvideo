@@ -39,19 +39,19 @@ from decimal import Decimal
 
 from sqlalchemy import select
 
-from app.config import get_settings
-from app.currency import build_price_item, build_stock_item
-from app.models import (
+from ..config import get_settings
+from ..currency import build_price_item, build_stock_item
+from ..models import (
     BatchStatus,
     ItemStatus,
     LegacyMaterialStatus,
     MigrationBatch,
     MigrationItem,
 )
-from app.pipeline.mapping import resolve_category
-from app.pipeline.reconcile import reconcile_batch
-from app.pipeline.template_builder import build_template_rows
-from app.quality_gate import run_quality_gate
+from ..pipeline.mapping import resolve_category
+from ..pipeline.reconcile import reconcile_batch
+from ..pipeline.template_builder import build_template_rows
+from ..quality_gate import run_quality_gate
 
 log = logging.getLogger("mvideo.pipeline")
 
@@ -320,8 +320,8 @@ def run_images(session, uploader=None, *, batch_id: int | None = None, work_root
     import tempfile
     import urllib.request
 
-    from app.oss_uploader import OssUploader
-    from app.pipeline.image_pipeline import (
+    from ..oss_uploader import OssUploader
+    from ..pipeline.image_pipeline import (
         process_local_images,
         safe_name,
         upload_processed_to_oss,

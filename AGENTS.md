@@ -16,3 +16,12 @@
 - 切带机固定映射：Ozon 类目 `17029021` → M.Video group `604171101`、infomodel `INF-307590`；模板为 `work/template_dispenser.xlsx`，工作表 `Шаблон для загрузки товаров`，数据从第 5 行开始。禁止再使用 `605085601` 或 `INF-303899`。
 - 类目映射必须存在且状态为 `confirmed`；未知类目、缺失材质、类目要求的证书、TN VED 或品牌授权不满足时必须阻断。
 - 所有上传商品品牌固定写 `Нет бренда`；标题和描述必须净化品牌内容但允许保留型号。
+
+## Python 包加载与集成接口测试规则（2026-09-24）
+
+- `backend/app` 包内部必须使用相对导入：包顶层模块使用 `from .module`，`integrations`、`pipeline` 等子包使用 `from ..module`；禁止在包内写 `from app...`，避免测试同时加入仓库根和 `backend` 后加载出 `backend.app` 与 `app` 两套模块和配置缓存。
+- 使用 FastAPI `TestClient` 调用内存 SQLite 时，测试引擎必须同时设置 `check_same_thread=False` 与 `poolclass=StaticPool`，因为请求在独立线程执行；默认内存连接池会让建表连接和请求连接不是同一个内存数据库。
+- 外部系统 intake 接口必须校验 `X-Integration-Key`：服务端未配置密钥返回 503，缺失或错误密钥返回 401；密钥不得出现在响应、日志、测试快照或提交文件中。
+- 版本化 intake 请求必须保留 `schema_version` 与 `idempotency_key`；同一幂等键绑定不同货源时返回 409，重复货源应幂等返回同一任务。
+- `SingleSkuJob` 必须由数据库强制 `(source_platform, source_product_id, source_sku_id)` 自然键唯一，约束/索引名固定为 `uq_single_sku_jobs_source`；不能只依赖应用层查询，避免并发 intake 创建重复任务。
+- FastAPI startup 必须先执行 `init_db()`；旧库补建 `ix_single_sku_jobs_idempotency_key` 或 `uq_single_sku_jobs_source` 前，若发现重复幂等键、重复自然键或不完整来源身份，必须抛出错误并要求先备份和人工对账，禁止静默合并。

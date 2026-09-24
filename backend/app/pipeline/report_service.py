@@ -29,9 +29,9 @@ from decimal import Decimal
 
 from sqlalchemy import select
 
-from app.config import get_settings
-from app.currency import cny_to_rub
-from app.models import ItemStatus, MigrationBatch, MigrationItem
+from ..config import get_settings
+from ..currency import cny_to_rub
+from ..models import ItemStatus, MigrationBatch, MigrationItem
 
 log = logging.getLogger("mvideo.report")
 
@@ -105,7 +105,7 @@ def batch_report(session, batch_id: int) -> dict:
 def _expected_kopecks(item, rate) -> int:
     """Local CNY price -> expected OMNI kopecks (v0.6.3: CNY * 1.1 * RATE * 100)."""
     rub = cny_to_rub(item.price_rub or 0, rate)
-    from app.currency import PRICE_MARKUP
+    from ..currency import PRICE_MARKUP
     rub_markup = (rub * PRICE_MARKUP).quantize(Decimal("0.01"))
     return int((rub_markup * Decimal("100")).to_integral_value())
 
@@ -219,7 +219,7 @@ def readback_verify(
     for it in candidates:
         pid = str(it.mv_product_id)
         expected_price = _expected_kopecks(it, rate)
-        from app.currency import MV_FIXED_STOCK
+        from ..currency import MV_FIXED_STOCK
         expected_stock = MV_FIXED_STOCK
 
         remote_price = price_map.get(pid)

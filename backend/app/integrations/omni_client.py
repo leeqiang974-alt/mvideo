@@ -37,7 +37,7 @@ from typing import Any, Iterable, Iterator
 
 import httpx
 
-from app.endpoints_omni import OMNI_AUTH_HEADER, PATHS, budget_group
+from ..endpoints_omni import OMNI_AUTH_HEADER, PATHS, budget_group
 
 
 # --------------------------------------------------------------------------- #

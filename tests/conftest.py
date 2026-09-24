@@ -25,12 +25,15 @@ def memory_session():
     """Fresh in-memory SQLite with all MvideoERP tables created."""
     from sqlalchemy import create_engine
     from sqlalchemy.orm import sessionmaker
+    from sqlalchemy.pool import StaticPool
 
     from backend.app.database import Base
     from backend.app import models  # noqa: F401  (register tables)
 
     engine = create_engine(
-        "sqlite://", connect_args={"check_same_thread": False}
+        "sqlite://",
+        connect_args={"check_same_thread": False},
+        poolclass=StaticPool,
     )
     Base.metadata.create_all(engine)
     Session = sessionmaker(autocommit=False, autoflush=False, bind=engine)

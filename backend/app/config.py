@@ -85,6 +85,10 @@ class Settings:
         # Shared Aliyun key file fallback (lines[1]=AKID, lines[3]=SK).
         self.oss_credential_file = os.getenv("ALIYUN_OSS_CREDENTIAL_FILE", "")
 
+        # --- External system integrations (Ozon ERP -> M.Video ERP) ---
+        # Shared secret for machine-to-machine intake calls. Never hard-code.
+        self.integration_api_key = os.getenv("INTEGRATION_API_KEY", "")
+
 
 @lru_cache
 def get_settings() -> Settings:

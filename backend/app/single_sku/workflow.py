@@ -276,6 +276,8 @@ def create_job_from_ozon_payload(
     payload: Mapping[str, Any],
     *,
     job_ref: str | None = None,
+    schema_version: str | None = None,
+    idempotency_key: str | None = None,
 ) -> SingleSkuJob:
     """Persist source evidence as an independent single-SKU job."""
     if not _is_mapping(payload):
@@ -304,6 +306,8 @@ def create_job_from_ozon_payload(
         source_price_rub=_source_price_rub(payload),
         source_images_json=_extract_images(payload),
         source_payload_json=dict(payload),
+        schema_version=schema_version or "",
+        idempotency_key=idempotency_key or None,
         ozon_category_id=category_id,
         ozon_category_name=category_name,
         length_mm=package["length_mm"],

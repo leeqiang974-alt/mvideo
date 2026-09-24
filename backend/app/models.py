@@ -280,6 +280,14 @@ class SingleSkuJob(Base):
 
     __tablename__ = "single_sku_jobs"
 
+    __table_args__ = (
+        UniqueConstraint(
+            "source_platform",
+            "source_product_id",
+            "source_sku_id",
+            name="uq_single_sku_jobs_source",
+        ),
+    )
     id: Mapped[int] = mapped_column(primary_key=True)
     job_ref: Mapped[str] = mapped_column(String(64), unique=True, index=True)
     source_platform: Mapped[str] = mapped_column(String(32), default="ozon")
@@ -295,6 +303,10 @@ class SingleSkuJob(Base):
     )
     source_images_json: Mapped[list] = mapped_column(JSON, default=list)
     source_payload_json: Mapped[dict] = mapped_column(JSON, default=dict)
+    schema_version: Mapped[str] = mapped_column(String(32), default="")
+    idempotency_key: Mapped[str | None] = mapped_column(
+        String(128), nullable=True, unique=True, index=True
+    )
 
     ozon_category_id: Mapped[int | None] = mapped_column(Integer, nullable=True)
     ozon_category_name: Mapped[str] = mapped_column(String(512), default="")

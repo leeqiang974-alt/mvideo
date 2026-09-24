@@ -14,7 +14,7 @@ from __future__ import annotations
 
 from decimal import ROUND_HALF_UP, Decimal
 
-from app.config import get_settings
+from .config import get_settings
 
 # v0.6.3 pricing rules locked by user:
 #   1. sell price = Ozon CNY * 1.1 (markup +10%) * MV_RUB_RATE
