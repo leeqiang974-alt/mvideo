@@ -270,3 +270,17 @@ python -m pytest -q
 ### 可复制到其他对话的摘要
 
 2026-09-24 已完成 M.Video 单 SKU Ozon → M.Video 的版本化 intake API：外部系统通过 `/api/v1/integrations/ozon/single-sku-jobs` 提交 `ozon.single-sku.v1` 载荷，并使用 `X-Integration-Key` 认证。接口支持自然键和 `idempotency_key` 幂等，重复货源返回同一任务，幂等键冲突返回 409；数据库级自然键唯一约束防止并发重复创建，旧库存在重复幂等键、空白来源身份或重复自然键时会硬阻断并要求人工对账。新任务停留在 `awaiting_input`，不会把 Ozon RUB 当 CNY 成本，也不会触发上传。已修复包内绝对导入造成的双配置缓存问题，并使用 `StaticPool` 修复 TestClient 跨线程内存 SQLite。最终专项测试 `19 passed`，全量测试 `115 passed`；当前未部署、未真实上传。
+
+## 后续更新：intake API GitHub 提交与推送完成（2026-09-24）
+
+- 功能提交 `06e95c7e0113b3ed799e3119bb9e1dc9d65a64c4`（`feat: add Ozon single-SKU intake API`）已成功推送到 `origin/main`。
+- 远端仓库：`git@github.com:leeqiang974-alt/mvideo.git`；推送结果为 `dae0a9c..06e95c7  main -> main`。
+- 提交前重新验证：`.\.venv\Scripts\python.exe -m compileall -q backend\app` 通过；专项测试 `19 passed, 18 warnings`；全量测试 `115 passed, 185 warnings`。
+- 独立代码审查仍因平台错误 `MissingParameter: partial` 中断，未形成外部审查结论；本地等价审查覆盖密钥泄露、Ozon RUB 误用为 CNY 成本、真实上传边界、数据库自然键唯一约束和不安全历史数据迁移。
+- `work/downloads/_test_oss.xlsx` 的 1 字节二进制差异未纳入功能提交，当前仍保留为未暂存状态，避免提交未解释的测试产物。
+- 本次只完成工作站代码与 GitHub 留档，尚未部署到笔记本生产环境，也未触发真实 M.Video 上传。
+- 本节确认并取代前文“截至本次功能代码提交，推送尚未发生”的临时状态。
+
+### 可复制到其他对话的补充摘要
+
+M.Video 单 SKU intake API 已提交并推送 GitHub：提交 `06e95c7e0113b3ed799e3119bb9e1dc9d65a64c4`，分支 `main`，远端 `git@github.com:leeqiang974-alt/mvideo.git`。提交前复验 `19 passed` 专项测试与 `115 passed` 全量测试；外部独立审查因平台 `MissingParameter: partial` 错误未形成结论。本次未部署、未真实上传，且未提交 `work/downloads/_test_oss.xlsx` 的未解释二进制差异。
